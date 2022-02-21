@@ -1,0 +1,1346 @@
+ID,EDAD,SEXO,CIVIL,HIJOS,INGRESO,AUTO,CHURN
+0,57,Femenino,Casado,2,27535.3,Si,Fuga
+4,68,Femenino,Casado,2,81000.9,No,Fuga
+8,34,Masculino,Soltero,0,87467.1,Si,No Fuga
+10,60,Masculino,Casado,2,83220.6,No,Fuga
+13,28,Femenino,Casado,2,20850.4,No,Fuga
+17,52,Masculino,Soltero,0,84112.6,No,No Fuga
+19,87,Femenino,Soltero,2,3776.12,No,Fuga
+20,88,Femenino,Casado,2,73865.9,Si,Fuga
+22,76,Masculino,Casado,2,30933.6,Si,No Fuga
+23,76,Femenino,Casado,1,12309.6,No,Fuga
+26,87,Masculino,Soltero,0,69864,No,Fuga
+28,90,Femenino,Casado,0,91620.6,No,No Fuga
+30,62,Masculino,Soltero,0,96501.9,Si,No Fuga
+31,81,Masculino,Soltero,1,3968.54,No,No Fuga
+32,50,Femenino,Casado,2,13774.2,No,Fuga
+33,48,Masculino,Soltero,2,39428.2,No,No Fuga
+40,37,Femenino,Soltero,2,4988.14,No,No Fuga
+42,55,Masculino,Soltero,2,85753.8,No,Fuga
+49,21,Masculino,Casado,2,23564.1,No,Fuga
+55,42,Masculino,Soltero,0,37661,No,No Fuga
+59,71,Masculino,Casado,2,99064,No,No Fuga
+64,94,Femenino,Casado,0,87251.8,Si,Fuga
+65,33,Femenino,Casado,0,2974.76,Si,Fuga
+72,86,Femenino,Soltero,2,92885.9,No,No Fuga
+73,54,Masculino,Casado,2,11676.2,No,No Fuga
+78,19,Femenino,Casado,0,27842.1,No,Fuga
+80,18,Femenino,Casado,1,9925.68,No,Fuga
+84,75,Masculino,Casado,2,17562.9,Si,No Fuga
+89,62,Masculino,Casado,0,50676,No,No Fuga
+92,23,Femenino,Soltero,2,8383.47,Si,Fuga
+96,57,Masculino,Casado,0,28128.4,No,No Fuga
+100,52,Masculino,Soltero,0,88413.4,Si,Fuga
+101,48,Masculino,Soltero,0,81420,No,Fuga
+102,77,Femenino,Casado,2,37155,Si,Fuga
+104,61,Masculino,Casado,1,85927.7,No,No Fuga
+116,25,Femenino,Casado,0,38950.5,No,Fuga
+117,56,Masculino,Soltero,0,44143.1,No,Fuga
+122,45,Masculino,Casado,1,39378.9,No,No Fuga
+125,59,Femenino,Soltero,1,69454.6,Si,Fuga
+130,78,Femenino,Soltero,2,74392.1,No,No Fuga
+137,21,Femenino,Casado,2,75323.4,No,No Fuga
+144,62,Masculino,Casado,2,94092.6,No,No Fuga
+145,32,Masculino,Soltero,1,63769.7,Si,Fuga
+149,43,Masculino,Casado,0,33935.8,Si,No Fuga
+154,32,Femenino,Casado,2,18913.2,No,Fuga
+155,20,Masculino,Casado,1,99398.1,No,Fuga
+160,83,Femenino,Soltero,1,96112.1,Si,Fuga
+170,46,Femenino,Casado,0,46734.5,No,Fuga
+172,66,Masculino,Soltero,0,80025.3,Si,No Fuga
+173,42,Femenino,Soltero,2,49776.2,Si,Fuga
+174,27,Masculino,Soltero,2,4335.86,No,Fuga
+177,93,Femenino,Soltero,0,74912.1,Si,Fuga
+179,93,Masculino,Casado,1,25949,No,No Fuga
+180,73,Femenino,Casado,0,76660.7,No,No Fuga
+181,48,Masculino,Casado,0,58764.7,Si,No Fuga
+187,47,Masculino,Casado,2,90070.5,No,No Fuga
+188,94,Femenino,Casado,2,38925.5,No,No Fuga
+195,20,Masculino,Soltero,2,9431.04,No,Fuga
+197,32,Masculino,Casado,0,38038.7,Si,No Fuga
+198,19,Femenino,Soltero,0,50290.7,No,Fuga
+199,78,Femenino,Soltero,1,88990.6,Si,Fuga
+201,36,Femenino,Casado,1,5283.2,No,No Fuga
+202,79,Masculino,Casado,1,37571.1,No,No Fuga
+206,23,Femenino,Casado,1,22767,Si,Fuga
+208,79,Masculino,Casado,0,61985.6,No,No Fuga
+216,27,Masculino,Casado,1,23234.8,No,No Fuga
+217,81,Masculino,Casado,2,20759.9,No,No Fuga
+218,54,Masculino,Casado,2,93476.6,Si,No Fuga
+222,29,Masculino,Casado,0,20315.4,Si,No Fuga
+229,68,Masculino,Casado,0,55059.2,No,No Fuga
+230,64,Masculino,Casado,1,92298,No,No Fuga
+244,69,Masculino,Casado,2,64113.6,Si,No Fuga
+245,40,Masculino,Soltero,0,57482.7,Si,No Fuga
+250,81,Femenino,Casado,1,77622.9,No,Fuga
+252,71,Femenino,Soltero,1,61302,No,No Fuga
+253,90,Femenino,Casado,1,41416.8,No,Fuga
+255,42,Femenino,Soltero,1,14740.1,No,Fuga
+257,93,Femenino,Casado,1,20013.2,Si,No Fuga
+258,58,Masculino,Casado,0,88811,No,No Fuga
+259,43,Femenino,Soltero,2,77293,No,Fuga
+260,23,Femenino,Casado,2,70032.2,No,No Fuga
+263,84,Masculino,Casado,0,88164,No,No Fuga
+282,81,Masculino,Soltero,0,44073.5,No,No Fuga
+285,72,Masculino,Soltero,1,95182.1,No,No Fuga
+286,70,Masculino,Casado,2,52921,No,No Fuga
+287,54,Femenino,Casado,1,27376,No,Fuga
+289,91,Femenino,Soltero,0,48262.4,No,Fuga
+295,50,Femenino,Casado,2,59078,Si,No Fuga
+302,67,Femenino,Soltero,0,79727,No,Fuga
+307,32,Femenino,Soltero,2,5108.57,No,No Fuga
+309,34,Femenino,Casado,2,94024.1,No,No Fuga
+310,62,Masculino,Soltero,1,11359.6,No,No Fuga
+311,49,Masculino,Soltero,0,60282.8,No,No Fuga
+315,61,Masculino,Casado,0,95132.7,No,No Fuga
+316,39,Femenino,Casado,1,85980.9,No,No Fuga
+317,83,Femenino,Casado,0,67042,No,No Fuga
+321,52,Femenino,Casado,1,24943,Si,Fuga
+326,26,Masculino,Soltero,2,8172.8,No,No Fuga
+330,55,Femenino,Casado,0,79771.3,Si,Fuga
+332,58,Femenino,Casado,0,91446.4,Si,No Fuga
+334,36,Femenino,Casado,2,96283.6,No,No Fuga
+335,19,Femenino,Soltero,1,24896.1,No,Fuga
+336,91,Masculino,Casado,1,16785.9,No,No Fuga
+340,68,Masculino,Casado,0,10421.7,No,No Fuga
+348,42,Femenino,Casado,0,18199.7,No,Fuga
+352,47,Femenino,Casado,2,56816.4,No,Fuga
+356,65,Masculino,Casado,0,30057.4,Si,No Fuga
+363,59,Femenino,Casado,1,50290.7,No,Fuga
+369,55,Masculino,Soltero,2,50050.5,No,Fuga
+379,39,Femenino,Soltero,1,46638.5,No,No Fuga
+387,94,Femenino,Soltero,2,42983.3,No,No Fuga
+388,84,Femenino,Soltero,2,32964.2,No,No Fuga
+393,62,Femenino,Casado,1,63314.6,No,Fuga
+394,22,Femenino,Casado,0,42877.2,No,Fuga
+396,83,Femenino,Soltero,1,78854.9,No,Fuga
+398,29,Masculino,Soltero,0,49127.2,No,No Fuga
+400,44,Masculino,Casado,2,57430.5,No,No Fuga
+401,58,Masculino,Soltero,0,56286.8,No,No Fuga
+402,63,Femenino,Soltero,1,83977.6,No,Fuga
+407,22,Femenino,Soltero,2,80571.6,Si,No Fuga
+412,53,Masculino,Casado,1,18672,Si,Fuga
+413,34,Femenino,Soltero,0,91147.5,No,No Fuga
+415,40,Femenino,Casado,1,21126.7,No,Fuga
+424,29,Femenino,Soltero,0,73032.9,No,No Fuga
+427,50,Masculino,Soltero,2,48882.6,No,No Fuga
+430,18,Femenino,Casado,1,57549.5,No,No Fuga
+431,57,Femenino,Casado,0,81576.2,No,Fuga
+433,62,Masculino,Soltero,2,49059.4,No,No Fuga
+442,55,Femenino,Soltero,0,95489.4,Si,Fuga
+448,29,Masculino,Soltero,2,35235.9,No,Fuga
+454,69,Masculino,Casado,2,30901.3,No,No Fuga
+458,95,Masculino,Casado,2,92855.3,No,No Fuga
+469,75,Femenino,Soltero,1,50290.7,No,Fuga
+471,55,Femenino,Casado,2,7394.15,No,No Fuga
+474,67,Masculino,Casado,2,37168.9,No,No Fuga
+481,59,Masculino,Casado,0,77177.1,No,No Fuga
+498,89,Masculino,Soltero,2,30059.6,No,No Fuga
+507,72,Masculino,Casado,0,96188.2,No,No Fuga
+509,59,Masculino,Casado,2,35119.1,No,No Fuga
+518,67,Masculino,Soltero,1,36415.3,Si,No Fuga
+521,58,Femenino,Casado,1,1414.58,No,No Fuga
+524,18,Femenino,Casado,1,9929.4,Si,No Fuga
+527,87,Masculino,Soltero,1,22718.6,No,No Fuga
+541,49,Masculino,Casado,1,62381.4,No,No Fuga
+543,82,Masculino,Soltero,2,2271.11,No,No Fuga
+545,91,Femenino,Casado,1,82051.9,No,Fuga
+546,57,Masculino,Casado,1,57272.7,No,No Fuga
+550,31,Femenino,Soltero,2,85401.7,Si,No Fuga
+558,58,Masculino,Casado,1,99619.9,Si,No Fuga
+564,23,Masculino,Casado,2,55371.8,No,No Fuga
+566,48,Femenino,Casado,0,24737.8,No,No Fuga
+567,80,Masculino,Casado,0,50290.7,No,No Fuga
+569,39,Femenino,Soltero,2,83996.9,No,No Fuga
+572,21,Femenino,Casado,1,73138.8,Si,No Fuga
+577,19,Masculino,Casado,0,58979.3,Si,No Fuga
+578,88,Masculino,Soltero,1,49176.2,No,No Fuga
+589,77,Femenino,Casado,0,39516.3,No,Fuga
+591,76,Masculino,Casado,2,24855.7,Si,No Fuga
+594,29,Masculino,Casado,0,97996.9,No,No Fuga
+598,48,Masculino,Soltero,2,87381.8,No,No Fuga
+603,38,Femenino,Casado,2,81309.5,Si,No Fuga
+604,34,Masculino,Casado,0,73834.9,Si,No Fuga
+619,79,Femenino,Casado,0,28021.4,Si,No Fuga
+621,49,Femenino,Casado,2,48334.1,No,Fuga
+623,93,Masculino,Casado,0,60325.9,Si,No Fuga
+625,72,Masculino,Soltero,0,21079.2,Si,No Fuga
+627,85,Masculino,Soltero,1,75991.2,No,No Fuga
+630,34,Femenino,Casado,2,24325.8,Si,No Fuga
+647,54,Femenino,Soltero,1,61231.7,No,Fuga
+648,94,Femenino,Casado,2,17964,No,Fuga
+654,82,Femenino,Soltero,1,80066.3,No,Fuga
+655,37,Masculino,Casado,0,43235.5,No,No Fuga
+657,65,Masculino,Casado,0,50290.7,No,No Fuga
+659,25,Masculino,Soltero,2,51268.5,Si,No Fuga
+661,58,Femenino,Casado,2,29597.1,No,No Fuga
+665,73,Masculino,Soltero,2,73240.3,No,No Fuga
+668,40,Femenino,Casado,0,15980.1,Si,Fuga
+669,59,Femenino,Soltero,1,61205.6,No,Fuga
+670,60,Femenino,Casado,2,21380.9,No,Fuga
+672,67,Masculino,Soltero,0,88874,Si,No Fuga
+674,43,Masculino,Casado,1,35827.5,Si,No Fuga
+684,43,Femenino,Casado,0,85205.1,Si,Fuga
+692,95,Masculino,Casado,2,21213,No,No Fuga
+703,52,Masculino,Soltero,1,37809.7,Si,Fuga
+704,93,Masculino,Soltero,1,68089.1,No,No Fuga
+709,22,Masculino,Soltero,1,15434.3,Si,Fuga
+710,73,Femenino,Soltero,0,92405.9,No,No Fuga
+715,90,Masculino,Casado,0,42248.7,No,No Fuga
+722,55,Femenino,Casado,0,28528,Si,No Fuga
+727,83,Masculino,Casado,2,85753.4,No,No Fuga
+729,37,Masculino,Soltero,1,28906.8,No,No Fuga
+747,78,Masculino,Casado,0,54864.6,No,No Fuga
+763,25,Masculino,Casado,2,40774.2,No,No Fuga
+765,81,Femenino,Casado,1,50613.1,Si,Fuga
+779,74,Masculino,Casado,1,60015.1,No,No Fuga
+781,65,Masculino,Soltero,1,11520.3,No,No Fuga
+792,57,Masculino,Soltero,2,26349.1,No,No Fuga
+795,65,Masculino,Casado,2,54370.8,No,No Fuga
+798,55,Masculino,Casado,2,50290.7,No,No Fuga
+800,89,Femenino,Soltero,2,79133,Si,Fuga
+803,61,Femenino,Soltero,2,54643.3,Si,No Fuga
+804,55,Femenino,Soltero,0,91646.6,Si,Fuga
+807,42,Femenino,Casado,1,79763.6,Si,No Fuga
+812,43,Masculino,Casado,1,15425.3,Si,No Fuga
+813,62,Masculino,Casado,1,65619.8,Si,Fuga
+815,38,Masculino,Soltero,2,58087.5,No,No Fuga
+816,30,Femenino,Casado,2,36740.7,No,No Fuga
+827,96,Femenino,Casado,2,95394,No,Fuga
+834,74,Femenino,Soltero,2,25754.9,No,No Fuga
+835,40,Masculino,Casado,0,55714,No,No Fuga
+844,65,Femenino,Soltero,0,36159,No,No Fuga
+848,56,Masculino,Casado,1,24626,No,No Fuga
+849,69,Femenino,Casado,0,49188.9,Si,Fuga
+856,57,Femenino,Casado,0,83165.7,No,Fuga
+858,70,Femenino,Soltero,2,15080.4,No,No Fuga
+860,22,Femenino,Casado,2,59699.5,No,No Fuga
+861,39,Masculino,Casado,1,88474.7,Si,No Fuga
+863,58,Masculino,Casado,0,64789.8,No,No Fuga
+867,19,Femenino,Casado,1,99261.8,Si,No Fuga
+868,83,Femenino,Casado,0,89344.4,No,No Fuga
+872,82,Femenino,Soltero,1,79009.7,No,No Fuga
+875,96,Masculino,Soltero,0,83986.8,Si,No Fuga
+877,48,Masculino,Soltero,1,98360.6,Si,No Fuga
+879,74,Femenino,Soltero,1,42002,No,Fuga
+880,55,Masculino,Casado,1,41334.1,No,No Fuga
+883,69,Femenino,Casado,2,28848.8,No,No Fuga
+887,53,Masculino,Casado,2,17246,Si,No Fuga
+888,71,Femenino,Casado,2,80667.4,No,Fuga
+891,19,Femenino,Soltero,2,56438.9,No,No Fuga
+894,37,Masculino,Casado,0,52355.1,Si,No Fuga
+897,75,Masculino,Casado,0,99454.2,No,No Fuga
+910,37,Femenino,Casado,2,80869.8,No,No Fuga
+914,38,Femenino,Casado,1,50290.7,No,No Fuga
+918,94,Masculino,Soltero,0,44927,No,No Fuga
+920,86,Femenino,Casado,0,2530.76,Si,No Fuga
+921,54,Femenino,Casado,2,19758.3,No,No Fuga
+926,69,Femenino,Casado,0,10250.1,No,Fuga
+931,28,Femenino,Casado,0,38450.2,Si,No Fuga
+934,70,Masculino,Soltero,2,66649.2,No,No Fuga
+944,93,Femenino,Soltero,1,21395.2,Si,Fuga
+947,78,Femenino,Soltero,2,72800.9,No,Fuga
+957,68,Masculino,Casado,0,41486.4,Si,No Fuga
+958,31,Masculino,Soltero,1,37832.6,Si,No Fuga
+963,53,Femenino,Soltero,0,95584.5,No,No Fuga
+964,20,Masculino,Casado,1,59632.9,Si,No Fuga
+965,97,Femenino,Soltero,1,98860.1,No,Fuga
+971,61,Masculino,Casado,1,83039.2,Si,Fuga
+972,92,Femenino,Soltero,2,47396.2,No,Fuga
+975,37,Femenino,Casado,0,46812.7,No,No Fuga
+984,59,Femenino,Soltero,0,41624.7,Si,Fuga
+987,50,Femenino,Casado,0,63306.6,Si,Fuga
+989,34,Femenino,Soltero,1,33671,No,No Fuga
+990,39,Femenino,Soltero,0,16829.6,No,No Fuga
+998,69,Masculino,Casado,0,80417.5,Si,No Fuga
+1002,53,Masculino,Casado,1,34317.6,No,Fuga
+1003,86,Femenino,Casado,1,99248.1,No,Fuga
+1006,62,Femenino,Casado,2,8749.8,No,Fuga
+1010,38,Femenino,Casado,0,17499.2,No,No Fuga
+1013,94,Masculino,Casado,1,76213.2,No,No Fuga
+1015,75,Femenino,Casado,2,11434.6,No,Fuga
+1020,97,Masculino,Casado,2,75004.5,No,No Fuga
+1021,32,Masculino,Casado,0,54430.2,Si,Fuga
+1028,27,Femenino,Soltero,1,54370.7,No,No Fuga
+1029,90,Masculino,Soltero,2,83653.3,No,No Fuga
+1031,59,Femenino,Soltero,0,23892.2,Si,Fuga
+1032,77,Femenino,Soltero,0,34160.5,No,Fuga
+1036,27,Masculino,Casado,2,50290.7,No,No Fuga
+1037,86,Femenino,Soltero,1,31639.2,No,Fuga
+1038,47,Femenino,Casado,1,7071.46,No,Fuga
+1044,33,Masculino,Casado,0,28000.4,Si,No Fuga
+1046,77,Masculino,Soltero,1,2743.69,No,No Fuga
+1048,68,Femenino,Casado,1,97318.6,Si,Fuga
+1050,93,Femenino,Soltero,1,46771.2,No,Fuga
+1053,30,Femenino,Casado,1,48457.6,Si,No Fuga
+1054,93,Masculino,Casado,2,40372.4,Si,No Fuga
+1055,47,Femenino,Casado,1,57611.4,No,Fuga
+1057,89,Masculino,Casado,0,60156.9,Si,No Fuga
+1060,22,Femenino,Casado,1,58462.3,Si,No Fuga
+1062,25,Femenino,Casado,2,295.941,No,Fuga
+1067,44,Femenino,Soltero,2,17689.2,No,Fuga
+1075,66,Masculino,Casado,1,7277.29,Si,No Fuga
+1079,69,Femenino,Soltero,0,45310.4,No,Fuga
+1080,38,Masculino,Casado,0,66742.3,No,No Fuga
+1082,97,Masculino,Casado,2,27667.6,No,Fuga
+1083,45,Masculino,Casado,2,7673.47,No,Fuga
+1086,68,Femenino,Casado,0,99832.9,No,Fuga
+1087,46,Masculino,Casado,0,93996.8,No,No Fuga
+1091,47,Femenino,Casado,2,54039.4,No,Fuga
+1092,31,Masculino,Casado,2,11254.9,Si,No Fuga
+1100,55,Femenino,Soltero,2,51744.2,No,No Fuga
+1101,56,Masculino,Soltero,0,4841.33,Si,No Fuga
+1103,72,Masculino,Soltero,0,22150.8,No,No Fuga
+1104,45,Masculino,Casado,2,39035.8,No,No Fuga
+1106,63,Masculino,Casado,0,82981,No,No Fuga
+1110,80,Femenino,Soltero,1,31809.7,Si,Fuga
+1112,80,Femenino,Casado,1,17755.4,No,Fuga
+1115,61,Masculino,Casado,0,41063.6,Si,No Fuga
+1116,48,Femenino,Casado,0,4581.11,No,Fuga
+1118,49,Masculino,Soltero,0,9414.82,No,No Fuga
+1122,65,Masculino,Soltero,1,57626.9,Si,No Fuga
+1123,28,Femenino,Casado,2,63328.8,No,Fuga
+1128,78,Femenino,Casado,2,62685,No,Fuga
+1130,46,Femenino,Casado,1,51014,No,Fuga
+1136,42,Masculino,Casado,0,18552.7,No,Fuga
+1138,23,Femenino,Soltero,1,14082,No,Fuga
+1143,57,Femenino,Casado,1,50290.7,No,Fuga
+1149,69,Femenino,Casado,0,91198.6,No,No Fuga
+1152,58,Masculino,Soltero,2,4123.46,No,No Fuga
+1158,54,Femenino,Casado,0,37389.2,No,Fuga
+1160,76,Masculino,Soltero,2,59592.6,Si,No Fuga
+1164,79,Femenino,Soltero,1,87818.3,No,No Fuga
+1166,86,Masculino,Soltero,2,56256.1,No,No Fuga
+1181,61,Masculino,Casado,1,18307.4,No,No Fuga
+1188,84,Femenino,Casado,2,5936.48,Si,Fuga
+1193,73,Femenino,Soltero,0,23832,No,No Fuga
+1199,55,Masculino,Casado,1,69408.3,No,No Fuga
+1201,28,Masculino,Soltero,2,39700.3,No,Fuga
+1202,45,Femenino,Casado,0,41947.8,No,No Fuga
+1203,68,Masculino,Casado,1,27677.8,No,No Fuga
+1204,75,Femenino,Casado,2,42846.2,Si,Fuga
+1211,71,Masculino,Casado,0,51195.5,Si,No Fuga
+1219,84,Masculino,Soltero,0,34148.6,Si,No Fuga
+1229,21,Femenino,Casado,0,38705.5,Si,Fuga
+1250,41,Masculino,Soltero,0,85804.3,Si,No Fuga
+1252,49,Femenino,Soltero,1,60310.6,Si,Fuga
+1254,83,Masculino,Casado,2,25108.2,Si,No Fuga
+1255,59,Masculino,Soltero,0,33912.4,Si,No Fuga
+1259,32,Femenino,Casado,1,7027.14,No,No Fuga
+1261,65,Femenino,Casado,0,58345.8,No,Fuga
+1264,51,Masculino,Soltero,0,2630.4,Si,No Fuga
+1267,92,Masculino,Casado,0,29518.8,No,No Fuga
+1273,97,Masculino,Soltero,0,75854.9,No,No Fuga
+1278,30,Masculino,Casado,1,3578,No,No Fuga
+1280,64,Femenino,Soltero,2,62275.3,Si,Fuga
+1283,74,Femenino,Casado,0,25445.6,No,Fuga
+1293,44,Masculino,Casado,1,49554.8,No,No Fuga
+1296,18,Masculino,Casado,0,1846.01,No,Fuga
+1297,84,Femenino,Soltero,0,95056.9,No,Fuga
+1298,18,Masculino,Casado,0,40728.7,No,No Fuga
+1300,72,Masculino,Soltero,2,55050.5,Si,Fuga
+1309,87,Masculino,Casado,0,98127.6,No,No Fuga
+1314,84,Masculino,Soltero,2,27958.5,No,No Fuga
+1316,22,Masculino,Casado,1,95847.9,Si,Fuga
+1321,19,Femenino,Casado,1,67750.9,No,No Fuga
+1322,42,Masculino,Soltero,1,93645.3,No,No Fuga
+1323,42,Femenino,Casado,1,31650.2,No,No Fuga
+1325,80,Femenino,Casado,1,86618.8,No,Fuga
+1326,80,Femenino,Soltero,0,48506.7,No,Fuga
+1327,53,Masculino,Casado,0,50622.9,Si,No Fuga
+1331,59,Femenino,Casado,0,50290.7,Si,Fuga
+1337,81,Femenino,Soltero,0,54486.5,No,Fuga
+1338,41,Femenino,Casado,1,84388.5,No,Fuga
+1342,53,Masculino,Soltero,2,21242.8,No,No Fuga
+1343,91,Masculino,Soltero,2,61766.7,Si,No Fuga
+1346,71,Masculino,Soltero,0,28273,Si,No Fuga
+1349,33,Masculino,Casado,1,57237.9,No,Fuga
+1352,71,Masculino,Soltero,1,37248.6,Si,No Fuga
+1354,64,Femenino,Casado,2,25796.5,No,Fuga
+1358,76,Masculino,Soltero,1,24104.7,No,No Fuga
+1365,49,Femenino,Casado,2,48471.1,No,Fuga
+1366,75,Femenino,Soltero,1,57952.6,No,Fuga
+1368,39,Femenino,Soltero,1,31931.3,No,No Fuga
+1370,33,Femenino,Casado,1,33967.7,No,No Fuga
+1371,25,Femenino,Soltero,0,91106.4,No,No Fuga
+1373,85,Masculino,Casado,0,18909.5,Si,No Fuga
+1376,26,Masculino,Soltero,2,19998.4,No,Fuga
+1379,39,Femenino,Casado,2,72401.8,No,No Fuga
+1380,68,Masculino,Soltero,1,83556.7,No,No Fuga
+1381,46,Femenino,Casado,0,34437.2,Si,Fuga
+1385,86,Femenino,Casado,2,36090.7,No,Fuga
+1389,65,Femenino,Casado,2,58148.7,No,Fuga
+1390,85,Femenino,Casado,2,69730.9,Si,Fuga
+1391,79,Femenino,Soltero,2,43151.7,No,Fuga
+1393,82,Femenino,Soltero,0,17491.4,No,Fuga
+1395,30,Femenino,Casado,2,16948.8,No,No Fuga
+1398,72,Femenino,Casado,1,38788.3,Si,Fuga
+1403,88,Femenino,Soltero,2,10764.6,No,Fuga
+1404,18,Femenino,Casado,0,13441.5,No,No Fuga
+1411,62,Masculino,Soltero,1,47503.9,No,No Fuga
+1415,66,Masculino,Soltero,2,72018.6,Si,No Fuga
+1417,29,Femenino,Soltero,1,21529.1,No,Fuga
+1418,36,Masculino,Casado,1,96349.8,No,No Fuga
+1421,76,Femenino,Casado,0,35697.5,No,Fuga
+1424,60,Femenino,Casado,1,40792.3,Si,No Fuga
+1428,46,Femenino,Casado,0,94576.2,Si,Fuga
+1429,42,Masculino,Casado,0,69463.1,No,No Fuga
+1432,90,Femenino,Casado,1,2796.07,No,No Fuga
+1436,88,Femenino,Soltero,0,68608,No,No Fuga
+1437,46,Masculino,Casado,1,44065.4,Si,No Fuga
+1440,31,Femenino,Casado,1,99485.3,No,No Fuga
+1443,60,Masculino,Casado,0,35125,No,No Fuga
+1448,57,Femenino,Casado,1,4875.25,No,Fuga
+1453,71,Femenino,Soltero,0,26435.8,No,No Fuga
+1455,41,Femenino,Soltero,2,48271.8,No,Fuga
+1457,49,Femenino,Casado,2,50290.7,No,Fuga
+1459,86,Masculino,Casado,1,12713.3,No,No Fuga
+1461,94,Masculino,Soltero,0,13946.8,No,No Fuga
+1462,19,Femenino,Casado,1,16915.2,No,Fuga
+1463,20,Masculino,Soltero,2,68140.5,No,No Fuga
+1464,43,Femenino,Soltero,1,77021.7,No,Fuga
+1467,47,Masculino,Soltero,1,12752.5,Si,No Fuga
+1483,68,Femenino,Casado,0,62484.8,No,Fuga
+1484,49,Masculino,Soltero,0,32358.1,No,No Fuga
+1487,61,Masculino,Soltero,0,72385.9,No,No Fuga
+1490,71,Femenino,Casado,0,45444,No,No Fuga
+1491,36,Masculino,Casado,0,97341.4,No,No Fuga
+1493,82,Masculino,Soltero,0,48841.4,No,Fuga
+1494,34,Femenino,Casado,1,73098.7,No,Fuga
+1496,22,Femenino,Casado,1,25863.8,No,Fuga
+1502,55,Masculino,Soltero,2,33377.3,No,No Fuga
+1509,40,Masculino,Soltero,2,33373.9,No,No Fuga
+1515,92,Masculino,Soltero,0,79872.6,No,No Fuga
+1522,21,Masculino,Soltero,1,48107.2,No,No Fuga
+1531,36,Femenino,Soltero,1,94083.3,No,No Fuga
+1539,48,Masculino,Casado,1,3793.73,No,No Fuga
+1543,22,Femenino,Soltero,2,14905,Si,Fuga
+1547,43,Femenino,Casado,2,22781.6,Si,Fuga
+1549,67,Femenino,Soltero,1,9824.75,No,No Fuga
+1550,53,Femenino,Soltero,2,11503.8,Si,Fuga
+1552,34,Masculino,Soltero,2,59753.2,Si,No Fuga
+1558,78,Femenino,Casado,0,16840.7,No,No Fuga
+1561,27,Femenino,Soltero,2,13094.8,No,Fuga
+1567,65,Femenino,Casado,1,37079.4,No,No Fuga
+1574,30,Femenino,Soltero,1,73334.3,No,No Fuga
+1580,42,Femenino,Casado,0,69458.8,No,Fuga
+1582,37,Masculino,Soltero,1,13126.9,No,No Fuga
+1585,58,Femenino,Casado,1,16350.3,Si,No Fuga
+1588,45,Masculino,Casado,0,27170.6,No,No Fuga
+1596,50,Femenino,Casado,2,96821.1,No,Fuga
+1602,94,Femenino,Soltero,1,17540.7,Si,Fuga
+1604,33,Masculino,Casado,2,80385.4,No,No Fuga
+1608,93,Masculino,Soltero,1,4347.25,No,No Fuga
+1609,89,Masculino,Soltero,0,51669,No,No Fuga
+1613,27,Masculino,Casado,2,16875.9,Si,Fuga
+1617,20,Femenino,Casado,1,2976.91,No,No Fuga
+1626,47,Masculino,Soltero,0,4961.5,Si,No Fuga
+1633,73,Femenino,Casado,2,5237.63,No,Fuga
+1635,67,Masculino,Soltero,1,80982.7,No,No Fuga
+1637,19,Femenino,Soltero,1,71906.8,No,Fuga
+1640,45,Femenino,Soltero,0,50290.7,Si,Fuga
+1645,63,Masculino,Casado,2,60644.3,No,No Fuga
+1650,37,Masculino,Soltero,2,34524.7,Si,No Fuga
+1657,23,Masculino,Soltero,0,12686.9,No,Fuga
+1668,47,Femenino,Soltero,1,59489,No,No Fuga
+1669,31,Masculino,Soltero,2,14690.1,No,No Fuga
+1670,76,Masculino,Soltero,1,91607.4,No,No Fuga
+1671,83,Femenino,Soltero,2,76845.3,Si,Fuga
+1672,21,Femenino,Casado,2,82056.6,No,No Fuga
+1677,18,Femenino,Casado,2,64726.8,No,No Fuga
+1680,35,Masculino,Casado,2,42623.5,No,No Fuga
+1682,77,Femenino,Soltero,1,37331.2,No,No Fuga
+1693,29,Femenino,Casado,2,79960,No,No Fuga
+1695,93,Masculino,Soltero,0,93302.9,No,No Fuga
+1697,39,Femenino,Casado,2,47902,No,No Fuga
+1701,39,Masculino,Soltero,2,32272.7,No,No Fuga
+1708,70,Femenino,Soltero,0,58384.3,No,Fuga
+1710,96,Masculino,Casado,1,2502.74,No,No Fuga
+1716,47,Femenino,Casado,0,79721.1,No,Fuga
+1717,97,Masculino,Casado,2,40844.4,No,No Fuga
+1718,79,Femenino,Casado,0,8090.4,Si,Fuga
+1723,68,Masculino,Soltero,1,57322.1,Si,Fuga
+1731,20,Masculino,Casado,0,69444.5,No,Fuga
+1734,51,Masculino,Casado,0,64313,No,No Fuga
+1737,40,Masculino,Soltero,2,88943.9,No,No Fuga
+1738,39,Masculino,Soltero,1,50126.8,No,No Fuga
+1739,21,Femenino,Soltero,0,45612.9,No,No Fuga
+1746,27,Femenino,Soltero,1,92718.6,No,No Fuga
+1760,68,Masculino,Soltero,2,17047.2,Si,No Fuga
+1762,64,Femenino,Soltero,1,7737.94,No,Fuga
+1767,51,Femenino,Casado,2,59613.1,No,Fuga
+1769,92,Masculino,Soltero,1,57904.4,No,Fuga
+1771,97,Masculino,Casado,2,88146.4,No,No Fuga
+1774,27,Masculino,Soltero,1,86608.5,No,No Fuga
+1777,72,Femenino,Casado,0,78851.3,No,Fuga
+1785,87,Femenino,Casado,1,3624.7,No,Fuga
+1789,57,Femenino,Casado,1,36016.9,No,Fuga
+1791,76,Femenino,Casado,2,42031.8,No,No Fuga
+1795,39,Masculino,Casado,1,39229.1,No,Fuga
+1800,42,Masculino,Casado,0,57042.2,No,No Fuga
+1803,74,Masculino,Soltero,1,94449.5,No,No Fuga
+1814,45,Femenino,Casado,2,67085.4,No,Fuga
+1815,28,Femenino,Soltero,1,4972.89,No,Fuga
+1818,67,Masculino,Casado,0,26369.2,No,No Fuga
+1820,73,Femenino,Casado,2,35976.5,Si,Fuga
+1822,92,Femenino,Casado,1,77129.1,Si,Fuga
+1823,79,Femenino,Casado,2,8204.72,No,Fuga
+1825,59,Masculino,Casado,2,40714.5,No,No Fuga
+1827,75,Masculino,Casado,1,97180.4,No,Fuga
+1837,68,Femenino,Casado,2,50290.7,No,Fuga
+1840,23,Femenino,Casado,0,869.57,No,Fuga
+1843,52,Femenino,Casado,1,70002.4,No,Fuga
+1847,82,Masculino,Soltero,0,37498.2,Si,No Fuga
+1851,31,Masculino,Casado,0,51015.7,Si,No Fuga
+1858,96,Masculino,Soltero,2,29835.9,Si,No Fuga
+1867,80,Masculino,Soltero,1,13141.5,No,No Fuga
+1873,86,Femenino,Soltero,0,69350.5,Si,No Fuga
+1883,97,Femenino,Casado,1,51812.2,No,Fuga
+1885,82,Femenino,Casado,1,49453.8,No,No Fuga
+1888,62,Femenino,Soltero,2,28787.4,No,No Fuga
+1889,79,Femenino,Soltero,1,94278.7,Si,No Fuga
+1901,58,Masculino,Soltero,2,12160.7,No,No Fuga
+1905,35,Femenino,Casado,0,80659.1,No,No Fuga
+1914,57,Masculino,Casado,1,35075,No,No Fuga
+1918,23,Masculino,Casado,1,43457.9,No,No Fuga
+1919,44,Masculino,Soltero,1,82314.1,Si,No Fuga
+1935,93,Femenino,Soltero,1,13109.1,No,No Fuga
+1937,71,Masculino,Casado,2,51493,Si,No Fuga
+1940,65,Femenino,Casado,0,17700.4,No,Fuga
+1942,88,Masculino,Casado,1,13091.6,No,No Fuga
+1943,55,Femenino,Casado,0,91708.4,No,No Fuga
+1944,28,Femenino,Soltero,0,64335,Si,No Fuga
+1957,88,Masculino,Soltero,2,6704.78,No,No Fuga
+1962,45,Femenino,Soltero,1,92187.1,Si,Fuga
+1964,69,Masculino,Casado,1,38302.7,No,No Fuga
+1965,54,Femenino,Casado,1,40027.6,Si,Fuga
+1966,26,Masculino,Soltero,1,85774.3,No,Fuga
+1972,51,Femenino,Soltero,2,2638.11,Si,Fuga
+1974,61,Femenino,Casado,0,10878.5,No,Fuga
+1976,34,Femenino,Soltero,1,30234.8,No,Fuga
+1978,62,Femenino,Soltero,2,13965.4,No,Fuga
+1983,64,Femenino,Soltero,1,45495,No,Fuga
+1987,63,Femenino,Casado,1,22198.1,Si,Fuga
+1988,21,Femenino,Casado,1,64557.8,Si,No Fuga
+1990,68,Femenino,Casado,2,62061.8,Si,No Fuga
+1992,48,Femenino,Soltero,0,76142,No,No Fuga
+1995,47,Femenino,Casado,1,53298.7,No,Fuga
+2003,67,Masculino,Casado,0,78319.3,No,No Fuga
+2006,79,Masculino,Casado,0,34994.1,No,No Fuga
+2012,81,Masculino,Soltero,1,97205.2,No,No Fuga
+2015,84,Femenino,Soltero,0,77462,No,Fuga
+2021,62,Masculino,Casado,2,17888.7,No,No Fuga
+2044,36,Masculino,Soltero,1,38348.1,No,No Fuga
+2045,18,Femenino,Casado,0,28770.9,No,Fuga
+2053,21,Femenino,Casado,2,30763.8,Si,Fuga
+2054,81,Femenino,Casado,2,3193.6,No,Fuga
+2059,41,Femenino,Casado,0,33520.9,No,Fuga
+2061,56,Femenino,Casado,0,11268.3,Si,Fuga
+2062,85,Masculino,Soltero,1,79688.7,No,No Fuga
+2063,28,Masculino,Soltero,2,88063.2,Si,No Fuga
+2064,89,Femenino,Casado,0,62229.6,No,Fuga
+2070,31,Femenino,Soltero,0,41856.2,No,No Fuga
+2072,28,Masculino,Casado,2,2056.06,Si,Fuga
+2075,95,Masculino,Soltero,0,38872.3,No,Fuga
+2076,39,Masculino,Casado,1,89928.5,No,No Fuga
+2080,37,Femenino,Soltero,0,74018.4,Si,No Fuga
+2087,30,Masculino,Casado,0,15819.6,No,No Fuga
+2093,96,Masculino,Soltero,2,25826.4,No,No Fuga
+2094,39,Masculino,Soltero,2,18569.2,No,No Fuga
+2096,97,Masculino,Soltero,0,27498.1,No,No Fuga
+2098,62,Femenino,Casado,0,37121.7,Si,Fuga
+2106,30,Masculino,Soltero,2,23464,Si,No Fuga
+2111,54,Femenino,Casado,0,69641.6,No,No Fuga
+2114,37,Masculino,Casado,2,91272.2,Si,No Fuga
+2117,59,Femenino,Casado,1,77374.6,Si,Fuga
+2124,56,Masculino,Casado,2,85275,No,No Fuga
+2132,36,Femenino,Casado,2,47639.1,No,No Fuga
+2135,39,Femenino,Casado,0,86770.4,No,Fuga
+2146,27,Femenino,Casado,2,53067.2,Si,No Fuga
+2151,81,Femenino,Casado,0,71816.1,Si,No Fuga
+2156,84,Femenino,Soltero,1,60362.1,No,Fuga
+2163,60,Femenino,Soltero,0,93322.1,Si,No Fuga
+2165,96,Masculino,Casado,1,8663.42,No,No Fuga
+2174,54,Masculino,Casado,2,23537.6,Si,No Fuga
+2176,44,Masculino,Casado,1,91008.7,Si,No Fuga
+2179,26,Masculino,Soltero,1,31166.6,No,Fuga
+2180,54,Masculino,Casado,0,52284.7,No,No Fuga
+2182,94,Femenino,Casado,1,87404.6,No,Fuga
+2185,35,Masculino,Soltero,0,63782.6,No,No Fuga
+2187,77,Masculino,Casado,2,49910.7,Si,No Fuga
+2188,48,Femenino,Casado,0,98129,No,Fuga
+2189,66,Masculino,Casado,2,76161.4,Si,No Fuga
+2191,97,Femenino,Soltero,1,12686,No,Fuga
+2192,62,Masculino,Casado,0,56702.5,No,No Fuga
+2194,18,Femenino,Casado,1,67112.7,No,No Fuga
+2196,51,Masculino,Casado,1,64880,No,No Fuga
+2197,34,Femenino,Soltero,1,51472.3,Si,No Fuga
+2200,71,Masculino,Soltero,0,12860.5,No,No Fuga
+2201,30,Femenino,Casado,2,85394,Si,Fuga
+2205,18,Masculino,Soltero,2,87708,No,No Fuga
+2211,75,Femenino,Casado,2,25738.4,No,Fuga
+2215,84,Masculino,Casado,0,50290.7,No,No Fuga
+2216,48,Masculino,Soltero,0,12134.7,Si,No Fuga
+2220,43,Femenino,Soltero,1,86252.8,Si,Fuga
+2221,94,Masculino,Casado,0,87630.5,Si,No Fuga
+2226,19,Masculino,Casado,2,92981.2,Si,No Fuga
+2239,75,Masculino,Casado,2,71035.4,No,No Fuga
+2251,78,Femenino,Casado,2,26449.8,Si,Fuga
+2254,26,Masculino,Soltero,1,76074.1,Si,No Fuga
+2256,90,Femenino,Casado,1,56722.8,No,Fuga
+2258,39,Femenino,Casado,1,23012.6,No,No Fuga
+2264,23,Femenino,Soltero,2,48162,No,No Fuga
+2266,22,Masculino,Soltero,1,27778.2,No,Fuga
+2268,37,Femenino,Soltero,0,71570.3,No,No Fuga
+2270,83,Femenino,Casado,0,98056.3,No,Fuga
+2278,53,Masculino,Soltero,1,76394,No,No Fuga
+2279,79,Femenino,Casado,2,87297.9,Si,Fuga
+2280,38,Femenino,Casado,0,56518.4,Si,No Fuga
+2286,92,Masculino,Soltero,2,8014.59,No,No Fuga
+2288,87,Femenino,Soltero,0,59232.8,No,Fuga
+2289,76,Masculino,Casado,1,72996,No,No Fuga
+2301,29,Masculino,Casado,1,69294.7,Si,No Fuga
+2312,61,Masculino,Soltero,0,5898.9,No,No Fuga
+2317,50,Masculino,Casado,2,14543.1,No,No Fuga
+2319,25,Masculino,Casado,0,52366.4,Si,No Fuga
+2320,56,Femenino,Soltero,1,49553.9,Si,Fuga
+2322,58,Femenino,Soltero,1,540.406,Si,No Fuga
+2324,57,Femenino,Casado,0,57255.4,No,Fuga
+2326,22,Femenino,Soltero,1,71941.5,Si,Fuga
+2337,83,Masculino,Soltero,2,65330.2,Si,No Fuga
+2343,25,Masculino,Casado,2,67339.8,No,No Fuga
+2350,79,Femenino,Soltero,2,15688.5,No,Fuga
+2355,53,Femenino,Soltero,1,68767,Si,Fuga
+2362,78,Femenino,Casado,2,92103.8,No,Fuga
+2363,55,Femenino,Soltero,2,8392.14,Si,Fuga
+2367,32,Femenino,Casado,2,16705.6,No,No Fuga
+2376,48,Masculino,Casado,2,69005.6,No,No Fuga
+2378,68,Femenino,Casado,1,81641.2,Si,No Fuga
+2379,40,Masculino,Casado,1,62789.9,No,No Fuga
+2386,54,Masculino,Soltero,1,13428.5,No,No Fuga
+2387,41,Femenino,Casado,1,3920.43,Si,No Fuga
+2398,77,Masculino,Casado,1,31841.7,Si,No Fuga
+2400,27,Femenino,Casado,2,22137,No,Fuga
+2403,74,Masculino,Casado,2,70908.7,No,Fuga
+2406,66,Femenino,Casado,2,67239.4,No,Fuga
+2407,70,Masculino,Casado,1,69406.7,Si,Fuga
+2410,76,Femenino,Casado,2,83259.3,No,Fuga
+2413,33,Masculino,Casado,1,78877.5,No,No Fuga
+2414,54,Masculino,Casado,0,68438.3,No,No Fuga
+2417,67,Masculino,Soltero,0,9448.62,Si,No Fuga
+2418,34,Masculino,Soltero,2,60095.2,Si,No Fuga
+2420,19,Masculino,Casado,1,20818.5,No,Fuga
+2421,82,Femenino,Casado,1,11895.7,No,Fuga
+2425,97,Femenino,Casado,1,51261.9,Si,Fuga
+2426,93,Masculino,Casado,1,76511.3,No,Fuga
+2433,86,Femenino,Soltero,2,84453.1,No,No Fuga
+2434,73,Femenino,Casado,2,33607,No,Fuga
+2437,73,Femenino,Casado,1,84601.4,No,Fuga
+2444,50,Masculino,Soltero,2,86905.4,Si,No Fuga
+2447,87,Femenino,Soltero,2,96025.5,No,Fuga
+2449,23,Masculino,Casado,2,24457.6,Si,Fuga
+2452,71,Masculino,Casado,2,36439.8,Si,No Fuga
+2455,24,Femenino,Soltero,2,98226.2,Si,No Fuga
+2461,86,Masculino,Soltero,1,94188.3,No,No Fuga
+2471,55,Femenino,Casado,0,25080.6,Si,Fuga
+2477,69,Femenino,Casado,2,63670.8,Si,Fuga
+2478,40,Masculino,Soltero,0,5282.6,No,Fuga
+2486,79,Femenino,Soltero,0,77644.1,No,No Fuga
+2494,78,Masculino,Soltero,0,80693.1,No,No Fuga
+2495,46,Femenino,Casado,0,50290.7,Si,Fuga
+2496,40,Femenino,Casado,2,91051,Si,Fuga
+2498,41,Femenino,Casado,0,89915,No,Fuga
+2507,70,Masculino,Soltero,2,14799.8,No,No Fuga
+2508,70,Masculino,Casado,1,74381.5,No,Fuga
+2510,83,Masculino,Casado,1,9132.91,No,No Fuga
+2514,77,Masculino,Casado,2,29277.8,No,No Fuga
+2521,91,Femenino,Casado,0,99309,No,Fuga
+2522,73,Femenino,Soltero,0,78564.7,No,No Fuga
+2528,49,Masculino,Soltero,1,63230.3,No,No Fuga
+2530,56,Masculino,Soltero,1,98533.3,No,No Fuga
+2531,79,Femenino,Casado,0,50530.8,No,Fuga
+2534,91,Femenino,Casado,2,8502.99,No,Fuga
+2540,46,Masculino,Soltero,0,14865.8,Si,No Fuga
+2549,47,Masculino,Casado,0,84743.7,Si,No Fuga
+2564,89,Masculino,Casado,2,64009.7,No,No Fuga
+2569,84,Masculino,Casado,0,20159.5,No,Fuga
+2570,73,Femenino,Soltero,2,85184.6,No,Fuga
+2574,77,Femenino,Casado,0,17021.6,No,Fuga
+2579,43,Femenino,Soltero,0,96854.3,No,Fuga
+2586,93,Femenino,Soltero,1,31240.3,Si,No Fuga
+2590,25,Femenino,Soltero,2,61463.7,No,No Fuga
+2591,97,Masculino,Casado,1,9148.27,No,No Fuga
+2592,36,Femenino,Soltero,0,58488.3,Si,No Fuga
+2595,25,Masculino,Casado,0,4592.8,No,Fuga
+2596,61,Femenino,Casado,2,30998.8,No,No Fuga
+2598,64,Masculino,Casado,1,36510.9,No,No Fuga
+2600,88,Masculino,Casado,1,43378.2,No,No Fuga
+2601,18,Masculino,Casado,1,76137.8,No,No Fuga
+2605,72,Femenino,Soltero,2,63291.1,Si,Fuga
+2608,92,Masculino,Casado,1,81271.1,No,No Fuga
+2613,40,Femenino,Casado,0,47750.4,Si,Fuga
+2615,88,Masculino,Casado,2,71686.2,Si,No Fuga
+2617,29,Femenino,Soltero,1,73874.1,Si,No Fuga
+2621,21,Masculino,Soltero,0,15924.2,No,No Fuga
+2622,67,Masculino,Casado,0,93201.3,No,No Fuga
+2624,74,Masculino,Soltero,1,18064.4,Si,No Fuga
+2633,61,Femenino,Soltero,0,45667.1,Si,Fuga
+2639,77,Masculino,Soltero,0,73850,No,No Fuga
+2640,21,Femenino,Soltero,2,21709.7,No,Fuga
+2646,71,Femenino,Casado,2,49745.3,No,No Fuga
+2656,32,Masculino,Soltero,1,54164.9,No,No Fuga
+2658,52,Femenino,Soltero,0,15906,Si,Fuga
+2660,78,Femenino,Casado,0,50290.7,No,No Fuga
+2663,84,Femenino,Casado,1,83850.5,Si,Fuga
+2680,35,Femenino,Casado,2,50968.9,No,Fuga
+2683,38,Femenino,Casado,2,60060.5,No,No Fuga
+2684,33,Femenino,Soltero,0,36486.4,No,No Fuga
+2688,56,Femenino,Casado,1,87302.6,No,Fuga
+2692,20,Femenino,Soltero,2,43046.4,Si,No Fuga
+2697,20,Femenino,Casado,2,88427,No,No Fuga
+2701,45,Masculino,Casado,2,37877.6,No,No Fuga
+2703,19,Masculino,Soltero,0,5930.86,Si,Fuga
+2705,58,Masculino,Casado,2,61334.8,Si,No Fuga
+2711,85,Femenino,Soltero,0,16175.6,No,Fuga
+2713,90,Femenino,Soltero,2,97445.2,Si,Fuga
+2714,85,Masculino,Soltero,2,75639.8,No,No Fuga
+2726,58,Masculino,Casado,1,32981.6,Si,No Fuga
+2732,94,Masculino,Casado,0,83876.4,Si,Fuga
+2734,90,Masculino,Soltero,2,81997,No,No Fuga
+2737,37,Masculino,Soltero,0,83378.3,Si,No Fuga
+2738,31,Femenino,Casado,1,82388.2,No,No Fuga
+2740,64,Masculino,Casado,2,80289.1,No,No Fuga
+2742,86,Femenino,Casado,2,23816.6,Si,Fuga
+2743,26,Femenino,Soltero,0,41340.6,No,No Fuga
+2748,34,Femenino,Soltero,2,90856.9,No,No Fuga
+2749,39,Femenino,Soltero,0,58623.8,No,No Fuga
+2753,48,Femenino,Casado,2,95429.7,No,Fuga
+2757,59,Femenino,Soltero,2,59478.8,No,Fuga
+2762,38,Masculino,Casado,1,50535.8,Si,No Fuga
+2767,62,Masculino,Casado,2,33361.3,Si,No Fuga
+2771,56,Femenino,Casado,0,50290.7,No,Fuga
+2772,39,Masculino,Casado,0,110.284,No,No Fuga
+2774,32,Masculino,Soltero,2,5565.43,Si,No Fuga
+2785,71,Femenino,Casado,2,80844.5,No,Fuga
+2789,67,Femenino,Casado,2,88177.1,Si,Fuga
+2790,71,Masculino,Casado,0,37113.6,No,No Fuga
+2793,58,Masculino,Casado,1,4054.55,Si,No Fuga
+2794,61,Femenino,Soltero,1,32533.9,No,Fuga
+2798,21,Masculino,Casado,2,61825.5,No,No Fuga
+2799,35,Masculino,Casado,1,38997.7,No,No Fuga
+2801,61,Masculino,Casado,1,15865.5,No,No Fuga
+2803,53,Masculino,Soltero,1,37111.5,Si,No Fuga
+2804,73,Femenino,Casado,2,87182.7,Si,Fuga
+2812,95,Masculino,Casado,0,60101.1,Si,No Fuga
+2813,89,Femenino,Casado,2,74628.1,No,Fuga
+2817,39,Femenino,Casado,1,13829.4,No,No Fuga
+2820,75,Femenino,Soltero,0,48755.1,No,Fuga
+2824,33,Femenino,Soltero,1,68339.3,No,No Fuga
+2825,25,Femenino,Casado,0,98433.8,No,Fuga
+2826,64,Masculino,Soltero,0,79937.2,Si,No Fuga
+2836,87,Masculino,Soltero,0,32683.9,Si,No Fuga
+2844,61,Masculino,Soltero,2,88408.2,No,No Fuga
+2849,32,Masculino,Casado,2,70722.3,No,No Fuga
+2859,48,Masculino,Soltero,0,88044.4,No,No Fuga
+2862,97,Femenino,Casado,1,95971.9,Si,Fuga
+2864,87,Femenino,Casado,1,50290.7,Si,Fuga
+2869,57,Masculino,Soltero,1,41153.9,No,No Fuga
+2870,60,Masculino,Soltero,0,3184.42,No,No Fuga
+2883,63,Masculino,Casado,0,97603.6,Si,No Fuga
+2890,74,Femenino,Soltero,2,60744.4,No,No Fuga
+2894,41,Masculino,Casado,0,63985,Si,No Fuga
+2899,63,Femenino,Soltero,0,19854.2,Si,Fuga
+2901,34,Femenino,Casado,0,17703.5,No,No Fuga
+2907,85,Masculino,Soltero,1,91100.6,No,No Fuga
+2909,35,Masculino,Soltero,0,25938.5,Si,No Fuga
+2910,79,Femenino,Soltero,0,7379.6,Si,Fuga
+2915,53,Femenino,Casado,2,19778.9,Si,Fuga
+2916,46,Masculino,Casado,2,60459.6,No,No Fuga
+2922,66,Masculino,Soltero,0,57122.2,Si,Fuga
+2925,29,Femenino,Casado,0,58267.3,No,No Fuga
+2926,77,Femenino,Soltero,0,70460.3,Si,Fuga
+2931,67,Femenino,Casado,2,98217.1,No,No Fuga
+2934,96,Femenino,Soltero,1,32005.6,Si,Fuga
+2935,97,Masculino,Casado,1,5723.09,No,No Fuga
+2936,48,Femenino,Soltero,1,55035.5,No,Fuga
+2938,94,Masculino,Soltero,2,14309.1,No,No Fuga
+2947,85,Femenino,Soltero,0,66502.3,No,Fuga
+2959,55,Masculino,Soltero,0,30751.8,No,No Fuga
+2964,27,Masculino,Soltero,0,86631.9,No,No Fuga
+2965,71,Femenino,Soltero,0,40519.3,No,Fuga
+2968,75,Femenino,Soltero,1,36939.7,Si,Fuga
+2969,41,Masculino,Casado,1,40081.2,Si,No Fuga
+2973,84,Masculino,Casado,1,68273.3,No,No Fuga
+2974,56,Femenino,Soltero,0,42795.9,Si,Fuga
+2984,94,Masculino,Casado,2,1140.26,No,No Fuga
+2985,66,Femenino,Casado,2,41876.6,Si,No Fuga
+2994,20,Femenino,Casado,2,59758.4,No,No Fuga
+2997,52,Femenino,Casado,0,8370.36,No,No Fuga
+2999,65,Femenino,Casado,1,7790.55,No,Fuga
+3001,41,Femenino,Soltero,2,27336.6,No,Fuga
+3002,49,Femenino,Soltero,0,64727.5,No,No Fuga
+3003,60,Femenino,Soltero,2,95930.6,Si,Fuga
+3005,34,Masculino,Soltero,0,50290.7,No,No Fuga
+3007,49,Masculino,Casado,1,20478.6,No,Fuga
+3011,20,Femenino,Casado,0,72626.4,Si,No Fuga
+3012,97,Masculino,Casado,0,96223.4,Si,No Fuga
+3013,93,Masculino,Soltero,1,28485.7,No,No Fuga
+3015,30,Femenino,Casado,1,69341.7,No,Fuga
+3016,60,Masculino,Casado,2,94329.6,No,No Fuga
+3020,60,Masculino,Casado,2,67933.8,No,No Fuga
+3021,91,Masculino,Casado,0,17527.3,No,No Fuga
+3026,24,Femenino,Casado,1,88663.4,No,No Fuga
+3032,57,Masculino,Soltero,2,91136.2,No,No Fuga
+3033,38,Masculino,Soltero,2,52600,No,No Fuga
+3035,50,Masculino,Casado,2,94902.6,No,No Fuga
+3036,77,Masculino,Casado,2,68704.3,Si,No Fuga
+3039,51,Femenino,Casado,1,78231,No,Fuga
+3042,33,Femenino,Casado,2,28746.8,No,No Fuga
+3046,58,Femenino,Casado,1,62260.2,No,Fuga
+3049,43,Masculino,Casado,0,12439.4,No,No Fuga
+3057,33,Femenino,Casado,0,60170.1,No,Fuga
+3059,22,Masculino,Casado,1,57348.8,No,No Fuga
+3063,19,Masculino,Casado,2,42630,Si,No Fuga
+3067,57,Femenino,Casado,2,64977.4,No,No Fuga
+3068,44,Femenino,Soltero,2,36824.5,No,Fuga
+3069,28,Femenino,Soltero,2,39223.2,Si,Fuga
+3071,39,Masculino,Casado,0,42700.5,Si,No Fuga
+3072,93,Masculino,Soltero,0,38248.3,No,No Fuga
+3073,92,Masculino,Casado,1,95020.4,Si,No Fuga
+3074,84,Masculino,Casado,0,46514.2,Si,No Fuga
+3075,50,Masculino,Casado,1,19301.3,Si,No Fuga
+3076,73,Masculino,Soltero,0,1259.01,Si,No Fuga
+3095,64,Femenino,Soltero,1,53357.2,No,Fuga
+3097,80,Femenino,Soltero,0,65209.6,Si,Fuga
+3098,37,Femenino,Soltero,0,5978.89,Si,No Fuga
+3100,78,Masculino,Casado,0,92198.8,No,No Fuga
+3103,97,Masculino,Casado,1,63394.9,No,No Fuga
+3104,42,Femenino,Soltero,1,86021.7,Si,Fuga
+3107,53,Femenino,Soltero,2,26107.5,No,Fuga
+3109,45,Femenino,Casado,0,59008.4,Si,No Fuga
+3110,64,Femenino,Casado,0,6528.38,Si,Fuga
+3119,52,Masculino,Soltero,0,54622.3,No,Fuga
+3125,47,Masculino,Soltero,0,64295.2,Si,No Fuga
+3131,79,Masculino,Casado,0,26074.5,No,Fuga
+3135,60,Masculino,Casado,1,20552.6,No,No Fuga
+3138,37,Femenino,Soltero,0,47732,Si,No Fuga
+3141,71,Masculino,Casado,1,98967.7,No,No Fuga
+3142,76,Masculino,Casado,0,14271.8,No,No Fuga
+3145,44,Femenino,Casado,1,7700.73,No,Fuga
+3150,35,Masculino,Casado,1,32238.2,No,No Fuga
+3153,97,Femenino,Casado,0,2902.34,No,Fuga
+3160,73,Femenino,Casado,0,61438.2,No,Fuga
+3163,26,Masculino,Soltero,1,72649.3,No,No Fuga
+3165,85,Masculino,Soltero,2,25353.4,Si,No Fuga
+3168,79,Masculino,Casado,2,5265.35,No,No Fuga
+3171,86,Femenino,Casado,1,53357.9,Si,Fuga
+3176,33,Femenino,Soltero,2,59573,No,No Fuga
+3179,97,Femenino,Soltero,0,84479.2,No,No Fuga
+3183,27,Masculino,Casado,2,89781.4,Si,No Fuga
+3185,40,Masculino,Soltero,1,66296.1,No,No Fuga
+3188,35,Masculino,Casado,2,86549.5,No,Fuga
+3190,86,Femenino,Casado,0,31242.1,No,Fuga
+3194,46,Masculino,Soltero,0,90866.5,No,No Fuga
+3195,58,Femenino,Casado,2,81711.9,No,Fuga
+3202,74,Femenino,Casado,2,87844.8,No,Fuga
+3204,30,Femenino,Casado,0,20058.4,No,No Fuga
+3207,28,Masculino,Casado,1,52750.8,No,No Fuga
+3209,41,Masculino,Soltero,1,52231.5,No,No Fuga
+3215,72,Femenino,Soltero,1,73338,No,No Fuga
+3220,31,Masculino,Casado,0,15865,No,No Fuga
+3225,71,Femenino,Soltero,1,68386.8,No,Fuga
+3230,60,Femenino,Soltero,1,92353.3,No,Fuga
+3234,34,Femenino,Casado,2,94778.3,No,No Fuga
+3235,57,Femenino,Casado,2,45488.3,No,Fuga
+3236,97,Masculino,Soltero,1,57347.6,Si,No Fuga
+3237,83,Masculino,Soltero,0,52774,No,No Fuga
+3241,76,Femenino,Casado,1,56545.8,Si,Fuga
+3242,30,Femenino,Casado,2,45171.2,No,No Fuga
+3243,34,Femenino,Soltero,2,76578.7,Si,No Fuga
+3245,64,Masculino,Casado,2,98855.5,No,No Fuga
+3246,63,Masculino,Casado,1,81686.6,No,No Fuga
+3247,45,Femenino,Casado,1,8469.02,No,Fuga
+3253,60,Masculino,Soltero,0,67477,No,No Fuga
+3255,97,Femenino,Soltero,1,62903.3,No,Fuga
+3259,73,Femenino,Casado,1,19621.6,No,Fuga
+3262,22,Femenino,Casado,1,50290.7,No,Fuga
+3263,67,Femenino,Casado,2,99100.1,No,Fuga
+3265,97,Masculino,Casado,2,1585.99,No,No Fuga
+3266,33,Femenino,Casado,2,85433.1,Si,Fuga
+3268,58,Masculino,Soltero,1,69473.4,Si,No Fuga
+3270,47,Femenino,Soltero,0,28891.2,No,Fuga
+3276,95,Femenino,Casado,2,46273.9,No,No Fuga
+3281,36,Masculino,Soltero,1,93607.8,Si,No Fuga
+3284,79,Masculino,Soltero,1,67137.7,No,No Fuga
+3288,60,Femenino,Casado,2,48874.7,No,Fuga
+3292,55,Femenino,Casado,0,53755.7,No,Fuga
+3294,72,Femenino,Casado,1,74263.8,No,Fuga
+3298,31,Masculino,Soltero,0,6121.14,No,No Fuga
+3299,44,Femenino,Casado,0,31561.5,No,Fuga
+3320,75,Femenino,Casado,1,55187.6,No,Fuga
+3322,53,Masculino,Casado,2,14500.3,No,No Fuga
+3323,21,Femenino,Casado,2,585.733,No,Fuga
+3328,34,Femenino,Casado,2,16616.3,No,No Fuga
+3332,66,Masculino,Casado,1,31672.4,No,No Fuga
+3334,63,Masculino,Casado,0,50290.7,Si,No Fuga
+3336,89,Masculino,Soltero,1,73965.2,No,No Fuga
+3340,50,Masculino,Casado,2,72356.8,No,No Fuga
+3342,78,Masculino,Soltero,0,64893.7,Si,No Fuga
+3346,62,Femenino,Casado,0,18831.1,No,Fuga
+3362,44,Femenino,Casado,0,1461.98,No,Fuga
+3364,30,Femenino,Casado,0,2031.61,No,No Fuga
+3365,71,Femenino,Casado,1,29902.9,No,Fuga
+3366,64,Femenino,Soltero,0,97524.5,No,Fuga
+3370,33,Masculino,Soltero,0,5466.39,Si,No Fuga
+3377,27,Femenino,Soltero,1,38458.6,Si,Fuga
+3378,46,Femenino,Soltero,0,50451.6,No,Fuga
+3379,46,Femenino,Soltero,2,41146.2,No,Fuga
+3381,96,Masculino,Casado,0,61550.6,Si,No Fuga
+3382,24,Masculino,Soltero,0,43082.6,No,Fuga
+3384,95,Femenino,Soltero,2,7659.09,No,Fuga
+3387,19,Masculino,Soltero,0,71861.9,No,No Fuga
+3388,23,Femenino,Soltero,1,55844.7,No,No Fuga
+3393,94,Femenino,Soltero,1,91346.9,No,No Fuga
+3394,62,Femenino,Soltero,0,72358.6,Si,No Fuga
+3395,52,Femenino,Soltero,0,44497.3,No,Fuga
+3396,55,Masculino,Soltero,2,69710.9,Si,Fuga
+3397,82,Masculino,Casado,2,77665.6,No,No Fuga
+3399,19,Masculino,Casado,2,22567.9,Si,No Fuga
+3405,33,Masculino,Casado,2,42763.7,Si,No Fuga
+3408,94,Femenino,Soltero,1,46480.7,No,Fuga
+3409,65,Femenino,Soltero,0,35219.6,Si,Fuga
+3414,44,Masculino,Soltero,2,31264.5,Si,No Fuga
+3415,76,Masculino,Soltero,1,64520.3,No,No Fuga
+3417,52,Masculino,Soltero,2,37480.8,No,No Fuga
+3418,28,Masculino,Soltero,0,37135.5,No,Fuga
+3425,92,Masculino,Casado,2,24344.1,No,No Fuga
+3432,66,Femenino,Casado,2,28384.5,Si,Fuga
+3433,79,Masculino,Soltero,2,97928.4,No,No Fuga
+3434,51,Femenino,Casado,1,53676.8,Si,Fuga
+3444,43,Masculino,Casado,2,68467.1,No,No Fuga
+3447,96,Masculino,Casado,2,57877.5,No,Fuga
+3460,96,Masculino,Soltero,2,57814.5,No,No Fuga
+3462,81,Masculino,Soltero,0,67634.7,No,No Fuga
+3469,27,Femenino,Casado,1,83682.9,No,No Fuga
+3470,86,Masculino,Casado,0,98399.9,Si,No Fuga
+3471,22,Femenino,Casado,1,67744.5,Si,No Fuga
+3474,60,Femenino,Casado,1,47468.6,No,Fuga
+3478,80,Femenino,Soltero,2,47893.1,No,Fuga
+3483,68,Masculino,Soltero,1,14904.1,No,No Fuga
+3486,42,Masculino,Casado,0,42639.1,Si,No Fuga
+3490,28,Femenino,Soltero,2,90364.4,No,Fuga
+3492,79,Masculino,Casado,2,73113.3,No,No Fuga
+3493,71,Femenino,Soltero,2,4581.9,No,Fuga
+3494,89,Masculino,Casado,1,87660.8,No,No Fuga
+3506,70,Masculino,Soltero,0,56421.8,Si,No Fuga
+3511,48,Femenino,Casado,2,44596.4,No,Fuga
+3518,60,Masculino,Soltero,1,86629.3,No,No Fuga
+3525,49,Masculino,Soltero,0,41862.6,No,No Fuga
+3528,62,Masculino,Casado,2,64283.2,Si,No Fuga
+3529,86,Masculino,Casado,0,92167.3,Si,No Fuga
+3530,37,Masculino,Soltero,0,79245.1,No,No Fuga
+3532,46,Masculino,Casado,0,82196.6,No,No Fuga
+3535,62,Femenino,Soltero,2,15981.7,No,Fuga
+3538,56,Masculino,Casado,2,77246.3,No,No Fuga
+3544,52,Femenino,Casado,0,67026.6,Si,Fuga
+3545,44,Femenino,Soltero,0,21038.9,No,Fuga
+3555,94,Femenino,Soltero,2,49724.1,No,Fuga
+3563,28,Femenino,Casado,1,24935.2,No,Fuga
+3565,80,Masculino,Soltero,1,15060.6,Si,No Fuga
+3569,72,Masculino,Soltero,1,95935.2,No,No Fuga
+3579,46,Masculino,Soltero,1,11416.7,No,No Fuga
+3580,81,Femenino,Casado,1,70052,No,Fuga
+3583,88,Femenino,Casado,2,66906.6,No,Fuga
+3585,53,Masculino,Casado,2,37354,No,No Fuga
+3587,56,Masculino,Casado,2,79952.9,No,No Fuga
+3588,23,Femenino,Soltero,1,76659.2,No,No Fuga
+3595,42,Femenino,Casado,2,75750.1,Si,Fuga
+3597,29,Femenino,Casado,1,50290.7,No,Fuga
+3599,86,Masculino,Casado,2,78801.2,No,No Fuga
+3612,80,Masculino,Casado,1,73152,Si,No Fuga
+3617,33,Femenino,Casado,2,68203.8,Si,No Fuga
+3621,78,Femenino,Soltero,0,29534.4,No,Fuga
+3627,83,Femenino,Casado,1,75265.3,No,Fuga
+3628,68,Masculino,Soltero,1,92426.5,No,No Fuga
+3630,58,Masculino,Soltero,2,17371,No,No Fuga
+3633,21,Masculino,Soltero,1,92788.1,No,Fuga
+3636,30,Masculino,Casado,2,25298.6,No,No Fuga
+3637,65,Masculino,Casado,2,29609.7,Si,No Fuga
+3640,88,Masculino,Casado,1,21890,Si,Fuga
+3648,75,Masculino,Casado,0,47131.5,No,No Fuga
+3650,50,Femenino,Casado,0,70004.1,No,Fuga
+3651,40,Masculino,Casado,0,66223.5,No,No Fuga
+3658,32,Femenino,Soltero,2,63041.1,Si,No Fuga
+3659,23,Femenino,Casado,0,35170.8,No,Fuga
+3661,63,Femenino,Soltero,0,3902.04,No,No Fuga
+3665,31,Femenino,Casado,2,55977.7,No,No Fuga
+3667,29,Femenino,Casado,0,6921.4,Si,Fuga
+3670,64,Femenino,Casado,1,45682.8,No,No Fuga
+3674,50,Femenino,Casado,2,38281.1,No,Fuga
+3675,29,Masculino,Soltero,0,18861.6,Si,Fuga
+3683,19,Masculino,Casado,0,89958.8,No,No Fuga
+3691,25,Femenino,Soltero,0,50290.7,Si,No Fuga
+3692,30,Femenino,Casado,0,61971.9,Si,No Fuga
+3696,23,Masculino,Casado,2,25672.6,No,Fuga
+3698,82,Masculino,Casado,2,38457.9,No,No Fuga
+3703,67,Femenino,Soltero,1,96519.1,Si,Fuga
+3705,46,Masculino,Casado,0,34805.5,No,No Fuga
+3709,82,Femenino,Casado,0,38687.2,No,Fuga
+3710,62,Femenino,Soltero,0,69977.3,No,Fuga
+3719,96,Masculino,Casado,2,95184.9,No,Fuga
+3722,64,Masculino,Soltero,0,53919.9,No,No Fuga
+3728,85,Masculino,Soltero,1,84100.4,No,No Fuga
+3730,90,Masculino,Casado,0,60550.5,No,No Fuga
+3735,83,Masculino,Casado,0,14604.9,No,No Fuga
+3737,18,Femenino,Casado,1,97220.7,No,No Fuga
+3738,38,Masculino,Casado,0,82003.9,Si,No Fuga
+3741,78,Masculino,Casado,1,23919.1,No,No Fuga
+3745,33,Femenino,Casado,2,90971.4,Si,No Fuga
+3747,41,Femenino,Casado,0,57307.1,No,Fuga
+3748,65,Femenino,Soltero,0,73918.3,No,Fuga
+3749,52,Femenino,Casado,2,58629.5,No,No Fuga
+3752,20,Masculino,Casado,2,13573.9,No,No Fuga
+3753,32,Femenino,Casado,1,22039,Si,No Fuga
+3764,61,Femenino,Soltero,0,11890.1,Si,Fuga
+3767,20,Masculino,Casado,0,8875.47,No,Fuga
+3770,74,Femenino,Soltero,0,94582.3,No,Fuga
+3772,35,Femenino,Casado,0,77680,No,No Fuga
+3775,71,Femenino,Soltero,0,61453.1,No,Fuga
+3778,87,Masculino,Soltero,1,45476,No,No Fuga
+3779,82,Femenino,Soltero,0,65670,Si,No Fuga
+3792,33,Masculino,Casado,2,32573.8,Si,No Fuga
+3793,89,Femenino,Soltero,0,63092.2,Si,Fuga
+3794,54,Masculino,Casado,0,4755.27,No,No Fuga
+3795,69,Femenino,Casado,2,22925.1,No,Fuga
+3796,83,Masculino,Soltero,0,90513.2,No,No Fuga
+3798,91,Masculino,Casado,0,50290.7,No,No Fuga
+3801,19,Femenino,Soltero,2,39782,No,Fuga
+3803,78,Masculino,Casado,0,84269,No,No Fuga
+3804,94,Masculino,Casado,1,83495,Si,No Fuga
+3809,83,Femenino,Soltero,1,28796.4,Si,No Fuga
+3812,32,Femenino,Casado,2,76791.5,No,No Fuga
+3817,66,Femenino,Soltero,1,56562.9,No,Fuga
+3818,42,Femenino,Soltero,0,74342.9,No,Fuga
+3825,27,Femenino,Casado,2,90672.6,No,No Fuga
+3826,80,Femenino,Casado,1,2279.44,Si,No Fuga
+3827,74,Masculino,Casado,1,47927.1,No,No Fuga
+3829,94,Femenino,Casado,1,15862.7,Si,Fuga
+3844,35,Masculino,Casado,2,15269.1,No,No Fuga
+3846,93,Femenino,Soltero,0,32480.3,No,No Fuga
+3848,30,Masculino,Casado,2,18893.4,No,No Fuga
+3852,40,Masculino,Casado,2,24329.4,No,No Fuga
+3858,22,Femenino,Casado,1,91390.6,No,No Fuga
+3873,72,Femenino,Casado,1,90912.8,No,Fuga
+3879,83,Masculino,Casado,1,71000.5,Si,No Fuga
+3880,94,Femenino,Soltero,1,51269.9,Si,Fuga
+3887,21,Masculino,Casado,2,58963.7,No,No Fuga
+3890,95,Masculino,Casado,1,58167.3,Si,No Fuga
+3894,82,Masculino,Casado,1,53582.6,No,No Fuga
+3896,55,Femenino,Soltero,0,43734.1,No,No Fuga
+3901,43,Femenino,Casado,1,32806.3,No,Fuga
+3910,77,Masculino,Casado,0,31852.4,No,No Fuga
+3911,81,Femenino,Casado,1,71668.2,Si,Fuga
+3917,53,Masculino,Soltero,2,8854.31,No,Fuga
+3918,88,Femenino,Soltero,1,46056.8,No,No Fuga
+3933,22,Masculino,Casado,2,65129,Si,No Fuga
+3936,55,Masculino,Soltero,2,16938.5,No,No Fuga
+3937,30,Femenino,Casado,0,30174.2,No,No Fuga
+3939,91,Femenino,Casado,0,82001.8,No,No Fuga
+3940,19,Femenino,Casado,0,26619.8,No,Fuga
+3944,29,Masculino,Soltero,0,94179.1,No,No Fuga
+3946,33,Femenino,Casado,1,82190.5,Si,No Fuga
+3950,62,Masculino,Casado,1,57974.8,Si,No Fuga
+3952,82,Masculino,Soltero,2,50290.7,Si,No Fuga
+3953,87,Femenino,Soltero,0,70492.4,No,Fuga
+3955,71,Masculino,Casado,1,8073.11,No,No Fuga
+3960,96,Masculino,Casado,0,8118.75,No,Fuga
+3961,80,Masculino,Casado,2,95448.6,Si,No Fuga
+3962,25,Masculino,Soltero,1,24141.5,Si,No Fuga
+3965,21,Femenino,Casado,0,27469.5,Si,Fuga
+3966,66,Femenino,Casado,1,62503.9,No,Fuga
+3967,48,Femenino,Casado,1,75738.8,Si,Fuga
+3971,92,Masculino,Casado,0,29854.3,No,No Fuga
+3982,69,Masculino,Casado,0,4684.74,No,Fuga
+3988,52,Masculino,Soltero,0,42760.5,No,No Fuga
+3989,60,Masculino,Soltero,1,49072,No,No Fuga
+3994,71,Masculino,Casado,0,64882,No,No Fuga
+3996,79,Masculino,Casado,2,76486.8,Si,No Fuga
+3997,92,Masculino,Casado,0,92093,Si,No Fuga
+4002,19,Femenino,Casado,0,68987.5,No,No Fuga
+4003,26,Femenino,Casado,1,68200,Si,No Fuga
+4007,70,Femenino,Casado,1,28197.3,Si,Fuga
+4011,55,Femenino,Casado,0,67720.2,Si,Fuga
+4013,72,Femenino,Soltero,1,78796,No,Fuga
+4015,69,Masculino,Casado,0,95405.7,No,No Fuga
+4017,33,Masculino,Soltero,1,53883.9,No,No Fuga
+4018,78,Masculino,Casado,1,7426.81,Si,No Fuga
+4020,52,Masculino,Casado,2,28255,No,No Fuga
+4023,36,Masculino,Soltero,2,55485.8,Si,No Fuga
+4024,43,Femenino,Soltero,1,53989.3,No,Fuga
+4029,33,Masculino,Casado,1,19173.6,No,No Fuga
+4031,64,Femenino,Casado,1,79734.6,Si,Fuga
+4034,49,Femenino,Casado,2,69865.2,No,Fuga
+4035,81,Masculino,Casado,2,90478.6,No,No Fuga
+4038,81,Femenino,Casado,1,50860.7,Si,Fuga
+4040,56,Femenino,Soltero,2,96863.6,No,Fuga
+4047,33,Femenino,Casado,2,29368.6,No,No Fuga
+4052,62,Masculino,Casado,2,50290.7,No,No Fuga
+4053,24,Femenino,Casado,1,15041.2,Si,Fuga
+4063,33,Femenino,Soltero,2,13669.8,No,No Fuga
+4065,40,Femenino,Soltero,1,26756.6,No,Fuga
+4081,94,Masculino,Soltero,0,79690.8,Si,No Fuga
+4084,22,Masculino,Casado,2,12389.3,Si,No Fuga
+4085,77,Masculino,Casado,1,21747.7,No,No Fuga
+4086,53,Masculino,Casado,0,42370.2,No,No Fuga
+4093,97,Masculino,Casado,2,47333.3,No,No Fuga
+4094,85,Masculino,Soltero,0,89788,No,No Fuga
+4101,53,Femenino,Soltero,2,4089.59,No,Fuga
+4104,76,Femenino,Casado,1,87797.5,Si,Fuga
+4111,78,Masculino,Soltero,0,54670.4,Si,No Fuga
+4113,37,Femenino,Soltero,1,82335.5,No,No Fuga
+4115,21,Femenino,Casado,1,78855.5,No,No Fuga
+4123,48,Masculino,Casado,2,7122.16,Si,No Fuga
+4125,80,Femenino,Casado,1,26609.9,No,Fuga
+4129,21,Masculino,Casado,0,57596.1,No,No Fuga
+4130,66,Femenino,Soltero,2,43654.4,No,No Fuga
+4132,56,Masculino,Casado,0,55501.6,Si,No Fuga
+4137,64,Masculino,Soltero,1,15822.6,Si,No Fuga
+4138,76,Masculino,Casado,2,23536,No,No Fuga
+4139,37,Femenino,Soltero,0,95261.8,No,Fuga
+4140,55,Femenino,Soltero,0,40200.7,Si,Fuga
+4144,40,Masculino,Casado,0,77717.1,No,No Fuga
+4146,34,Masculino,Casado,2,14794.3,Si,No Fuga
+4152,59,Femenino,Casado,0,887.5,No,Fuga
+4155,79,Femenino,Casado,0,2759.49,No,Fuga
+4166,68,Masculino,Casado,2,89449,No,No Fuga
+4174,47,Masculino,Casado,2,42818.5,No,No Fuga
+4180,44,Masculino,Soltero,2,54953.1,No,No Fuga
+4186,75,Femenino,Casado,0,16814.1,Si,No Fuga
+4189,33,Femenino,Soltero,2,1144.36,Si,No Fuga
+4194,82,Femenino,Casado,2,72092.3,No,Fuga
+4199,83,Masculino,Casado,1,68290.8,Si,No Fuga
+4201,60,Femenino,Soltero,2,24703.8,No,Fuga
+4202,35,Masculino,Soltero,0,44909.2,No,No Fuga
+4209,85,Masculino,Casado,1,58310.2,Si,No Fuga
+4212,88,Femenino,Casado,1,96090.2,No,No Fuga
+4213,27,Femenino,Soltero,0,67668.3,No,No Fuga
+4217,31,Masculino,Soltero,0,6165.64,Si,No Fuga
+4228,47,Masculino,Soltero,2,23511.4,Si,No Fuga
+4230,39,Femenino,Casado,1,46736,No,No Fuga
+4234,62,Femenino,Casado,2,127.237,No,No Fuga
+4238,91,Femenino,Casado,1,57517.9,No,No Fuga
+4242,57,Femenino,Casado,0,70459.5,No,Fuga
+4256,86,Femenino,Casado,0,85180.1,No,Fuga
+4261,71,Femenino,Casado,0,67812.8,No,Fuga
+4262,97,Masculino,Casado,0,45871.4,No,No Fuga
+4263,49,Masculino,Casado,2,90414.9,Si,No Fuga
+4264,77,Masculino,Casado,0,31650,Si,No Fuga
+4265,24,Masculino,Casado,0,25921.4,No,Fuga
+4267,50,Femenino,Casado,2,11458.4,Si,No Fuga
+4271,40,Masculino,Soltero,0,67823.5,Si,No Fuga
+4273,74,Femenino,Soltero,1,52307,No,Fuga
+4282,88,Femenino,Soltero,2,18172.8,Si,Fuga
+4287,61,Masculino,Soltero,0,77920.8,No,No Fuga
+4290,38,Masculino,Casado,2,52989.2,No,Fuga
+4291,83,Femenino,Casado,0,42491.4,No,No Fuga
+4298,64,Masculino,Casado,1,10286.4,No,Fuga
+4303,32,Femenino,Casado,2,82258.2,Si,No Fuga
+4310,58,Femenino,Casado,0,11253,Si,Fuga
+4315,62,Masculino,Soltero,2,10219,Si,No Fuga
+4317,28,Masculino,Casado,1,43448,No,No Fuga
+4320,83,Femenino,Casado,2,85022.1,No,Fuga
+4321,22,Masculino,Casado,2,33149.2,No,No Fuga
+4323,37,Femenino,Soltero,2,34567,Si,No Fuga
+4324,58,Femenino,Soltero,1,53357.4,No,No Fuga
+4328,55,Femenino,Casado,2,9665.54,Si,Fuga
+4331,97,Masculino,Casado,0,39383.4,Si,No Fuga
+4334,37,Masculino,Soltero,0,32872.1,No,No Fuga
+4339,23,Masculino,Soltero,1,50290.7,No,Fuga
+4342,69,Masculino,Soltero,2,52127.5,No,No Fuga
+4345,65,Femenino,Soltero,2,18151.6,No,Fuga
+4350,59,Masculino,Soltero,0,21893.6,No,Fuga
+4351,52,Masculino,Soltero,2,78731,No,No Fuga
+4354,95,Masculino,Casado,2,23764.3,No,No Fuga
+4360,62,Masculino,Soltero,2,23715,Si,No Fuga
+4362,46,Masculino,Soltero,1,55634.8,No,No Fuga
+4365,87,Femenino,Casado,1,12935.2,No,Fuga
+4366,32,Femenino,Casado,1,47211.6,Si,Fuga
+4367,49,Femenino,Casado,1,97841.7,No,Fuga
+4368,88,Femenino,Soltero,2,94665.2,No,Fuga
+4369,51,Femenino,Casado,2,33790.9,No,Fuga
+4372,30,Femenino,Casado,1,82743,No,No Fuga
+4373,59,Femenino,Casado,0,10384.5,No,Fuga
+4375,48,Masculino,Casado,2,60463.4,Si,No Fuga
+4381,43,Masculino,Soltero,2,57976.7,No,No Fuga
+4383,95,Masculino,Casado,1,65745.1,No,No Fuga
+4384,29,Masculino,Casado,1,38230.4,No,No Fuga
+4396,96,Masculino,Casado,1,48713.6,Si,No Fuga
+4402,34,Femenino,Soltero,1,95986,No,No Fuga
+4403,94,Femenino,Casado,2,37742,No,No Fuga
+4409,76,Femenino,Casado,1,349.091,Si,Fuga
+4411,60,Femenino,Casado,2,99488.1,Si,No Fuga
+4413,30,Masculino,Casado,2,17555.2,No,No Fuga
+4416,83,Masculino,Soltero,2,58580.6,Si,No Fuga
+4427,61,Masculino,Casado,2,53619.2,No,No Fuga
+4435,27,Masculino,Soltero,1,16712.9,No,Fuga
+4442,34,Femenino,Casado,0,32657.7,No,No Fuga
+4454,39,Masculino,Casado,0,29227.8,No,No Fuga
+4455,87,Masculino,Soltero,0,37882.5,No,No Fuga
+4456,91,Femenino,Soltero,2,69984.1,Si,Fuga
+4463,44,Masculino,Soltero,2,11861.4,No,No Fuga
+4466,44,Femenino,Soltero,0,44183.9,Si,Fuga
+4471,26,Masculino,Soltero,0,34129.2,Si,Fuga
+4486,49,Masculino,Soltero,0,20730.7,No,No Fuga
+4497,56,Masculino,Casado,1,7330.68,Si,No Fuga
+4501,96,Masculino,Casado,1,50290.7,No,No Fuga
+4509,77,Masculino,Soltero,0,81875.8,No,No Fuga
+4518,52,Femenino,Soltero,0,52963.3,Si,Fuga
+4519,78,Masculino,Casado,2,92731.3,Si,No Fuga
+4525,42,Masculino,Casado,0,4324.22,No,Fuga
+4526,63,Masculino,Soltero,0,90335.6,Si,Fuga
+4536,28,Masculino,Casado,1,10385.3,No,Fuga
+4539,90,Femenino,Casado,1,60034.9,Si,No Fuga
+4540,70,Femenino,Casado,1,37521.4,No,No Fuga
+4544,68,Masculino,Soltero,0,3409.01,No,No Fuga
+4546,40,Femenino,Soltero,1,16463,Si,Fuga
+4548,31,Masculino,Soltero,1,28464,Si,No Fuga
+4549,25,Femenino,Soltero,1,7320.73,No,Fuga
+4551,28,Masculino,Casado,0,96563.5,Si,No Fuga
+4552,54,Femenino,Soltero,0,60774.6,No,Fuga
+4558,44,Masculino,Casado,1,36638.2,No,Fuga
+4564,39,Femenino,Soltero,2,51662.2,No,No Fuga
+4565,69,Masculino,Casado,0,67108.3,Si,Fuga
+4571,29,Masculino,Casado,2,21288.3,No,Fuga
+4584,78,Masculino,Soltero,0,59699.8,No,No Fuga
+4587,87,Femenino,Soltero,0,20409,Si,Fuga
+4589,27,Masculino,Casado,0,85079.5,No,No Fuga
+4590,63,Masculino,Casado,2,31282.8,Si,No Fuga
+4592,26,Femenino,Casado,0,57372.4,Si,No Fuga
+4602,89,Femenino,Soltero,2,27492.2,No,Fuga
+4604,73,Masculino,Casado,0,19654.9,No,No Fuga
+4605,84,Femenino,Casado,2,23684.1,No,No Fuga
+4607,73,Masculino,Casado,2,7010.68,No,No Fuga
+4612,84,Femenino,Casado,0,87840.6,Si,Fuga
+4613,45,Masculino,Casado,2,23695.6,No,No Fuga
+4614,24,Femenino,Casado,1,33065,No,Fuga
+4619,32,Masculino,Casado,2,24176.8,Si,No Fuga
+4622,46,Masculino,Casado,0,10689.4,No,No Fuga
+4628,18,Masculino,Soltero,2,19546.6,No,No Fuga
+4632,65,Masculino,Casado,1,82783.8,Si,No Fuga
+4634,49,Masculino,Soltero,1,29894.4,No,No Fuga
+4637,63,Masculino,Soltero,2,39753.3,No,No Fuga
+4644,54,Femenino,Soltero,1,11659.5,Si,Fuga
+4645,25,Masculino,Soltero,2,56861.8,No,No Fuga
+4647,70,Femenino,Soltero,0,87788.7,Si,Fuga
+4654,97,Femenino,Casado,0,50290.7,No,Fuga
+4656,82,Femenino,Casado,1,77265.5,No,Fuga
+4658,69,Femenino,Soltero,2,67773.9,No,No Fuga
+4660,20,Masculino,Soltero,1,87491,No,No Fuga
+4662,38,Masculino,Casado,0,94002.6,No,No Fuga
+4663,21,Femenino,Casado,0,64236.8,No,Fuga
+4668,20,Femenino,Casado,2,3628.78,No,No Fuga
+4672,94,Masculino,Soltero,2,22685.3,Si,No Fuga
+4682,26,Masculino,Soltero,2,14785.7,No,Fuga
+4684,65,Femenino,Casado,1,23947.8,No,Fuga
+4687,64,Masculino,Casado,1,43644.7,Si,No Fuga
+4688,49,Masculino,Casado,0,11131.6,Si,No Fuga
+4690,74,Masculino,Casado,1,60933.9,No,Fuga
+4691,50,Femenino,Soltero,2,21396.2,Si,Fuga
+4699,48,Masculino,Casado,1,23668.2,Si,No Fuga
+4700,94,Masculino,Casado,2,49022.9,No,No Fuga
+4704,87,Masculino,Soltero,1,85705.8,No,No Fuga
+4713,75,Femenino,Casado,2,49561,No,Fuga
+4715,48,Femenino,Soltero,1,79129.2,No,Fuga
+4717,30,Femenino,Casado,1,17866.9,No,No Fuga
+4720,67,Femenino,Soltero,1,91347.1,No,Fuga
+4722,20,Masculino,Soltero,1,44469.6,Si,No Fuga
+4724,68,Femenino,Casado,0,73728.3,No,Fuga
+4727,53,Femenino,Casado,2,64546.4,Si,No Fuga
+4728,23,Masculino,Soltero,1,84217.7,Si,No Fuga
+4735,47,Femenino,Casado,1,63778.3,Si,Fuga
+4738,25,Femenino,Casado,1,10107.7,Si,Fuga
+4743,19,Femenino,Casado,1,73089.7,Si,No Fuga
+4746,23,Femenino,Soltero,1,63712.1,No,No Fuga
+4749,36,Masculino,Soltero,1,35381.6,No,No Fuga
+4752,48,Masculino,Casado,0,39598.7,No,No Fuga
+4754,20,Femenino,Soltero,2,23671.6,No,Fuga
+4757,21,Femenino,Casado,0,77210.6,No,No Fuga
+4762,61,Masculino,Soltero,2,66026,No,No Fuga
+4767,51,Femenino,Casado,2,32118.4,No,Fuga
+4771,56,Masculino,Soltero,2,86258.6,No,No Fuga
+4772,48,Femenino,Casado,2,85246.6,No,Fuga
+4778,29,Masculino,Casado,2,98734.7,No,No Fuga
+4779,70,Femenino,Soltero,0,61639.7,No,Fuga
+4780,93,Masculino,Soltero,1,14258.4,Si,Fuga
+4784,85,Femenino,Soltero,1,23657.4,No,Fuga
+4791,86,Femenino,Soltero,0,99514.6,Si,Fuga
+4792,44,Femenino,Casado,2,92285.4,No,No Fuga
+4798,82,Masculino,Casado,0,40551,Si,No Fuga
+4801,45,Masculino,Casado,0,70239.8,No,No Fuga
+4802,59,Femenino,Casado,0,29953.1,No,Fuga
+4807,50,Masculino,Casado,0,19231.2,No,No Fuga
+4808,94,Masculino,Casado,0,50290.7,No,No Fuga
+4811,56,Masculino,Casado,2,46165.2,No,No Fuga
+4812,55,Femenino,Soltero,0,54844.2,Si,Fuga
+4815,94,Femenino,Casado,1,66755.6,No,Fuga
+4817,56,Masculino,Soltero,1,92798.9,No,No Fuga
+4820,49,Femenino,Casado,0,68828.4,Si,Fuga
+4821,57,Masculino,Casado,1,77149.1,No,No Fuga
+4823,70,Masculino,Casado,1,42211.8,No,No Fuga
+4824,89,Masculino,Casado,0,91655.8,No,No Fuga
+4825,18,Masculino,Casado,0,77293.3,Si,No Fuga
+4828,65,Femenino,Casado,1,62751.3,No,Fuga
+4830,41,Femenino,Casado,1,43563.4,No,Fuga
+4832,61,Femenino,Casado,1,79685,No,Fuga
+4837,83,Masculino,Soltero,1,65867.1,No,No Fuga
+4838,48,Masculino,Casado,1,75818.9,No,No Fuga
+4839,34,Masculino,Soltero,0,49728.7,No,No Fuga
+4853,60,Masculino,Casado,0,20953.2,No,No Fuga
+4857,64,Femenino,Casado,2,56412.5,No,Fuga
+4859,63,Femenino,Soltero,2,25200.8,No,No Fuga
+4861,56,Masculino,Soltero,2,61417.3,Si,No Fuga
+4863,41,Femenino,Casado,1,47916.3,No,Fuga
+4870,41,Femenino,Casado,0,45103.4,No,No Fuga
+4874,25,Masculino,Casado,0,94451.7,Si,No Fuga
+4875,85,Masculino,Soltero,0,57933.1,Si,No Fuga
+4880,95,Masculino,Casado,0,585.791,No,No Fuga
+4886,70,Masculino,Casado,1,76837.4,No,No Fuga
+4888,20,Masculino,Casado,2,66312.2,Si,No Fuga
+4895,74,Masculino,Soltero,0,2825.56,No,No Fuga
+4896,65,Femenino,Casado,0,10391.1,No,Fuga
+4897,59,Masculino,Casado,2,40637.4,No,No Fuga
+4898,57,Masculino,Casado,2,66634.9,No,No Fuga
+4907,37,Femenino,Casado,2,53162.2,Si,No Fuga
+4914,63,Femenino,Casado,2,84342.2,No,No Fuga
+4917,85,Masculino,Soltero,2,96929.8,No,No Fuga
+4921,55,Masculino,Casado,1,86537.4,Si,No Fuga
+4923,54,Masculino,Soltero,0,84754.4,No,No Fuga
+4927,67,Masculino,Casado,0,81360.6,No,Fuga
+4929,82,Femenino,Casado,2,89270.4,No,No Fuga
+4935,53,Masculino,Casado,2,50290.7,No,No Fuga
+4936,81,Femenino,Casado,2,94159.9,No,Fuga
+4937,81,Masculino,Casado,2,57898.5,No,No Fuga
+4940,42,Femenino,Casado,1,62126.4,Si,Fuga
+4941,76,Masculino,Soltero,1,57091.6,Si,No Fuga
+4943,63,Masculino,Soltero,1,75826.6,No,Fuga
+4945,82,Femenino,Soltero,0,8604.64,No,Fuga
+4947,50,Masculino,Casado,0,73210.8,Si,No Fuga
+4950,81,Femenino,Soltero,2,87872.9,Si,Fuga
+4951,21,Masculino,Casado,0,63671.3,Si,No Fuga
+4952,59,Femenino,Casado,0,91427.2,No,Fuga
+4955,86,Masculino,Casado,2,88392,No,No Fuga
+4956,90,Masculino,Soltero,0,8513.14,No,No Fuga
+4957,63,Masculino,Soltero,2,16472.4,No,No Fuga
+4962,80,Femenino,Casado,2,83890.7,No,No Fuga
+4963,34,Masculino,Soltero,2,9229.55,No,No Fuga
+4965,56,Femenino,Casado,0,58641.2,No,No Fuga
+4969,37,Femenino,Casado,2,11947.3,No,No Fuga
+4977,69,Femenino,Soltero,0,86735.5,No,No Fuga
+4980,86,Femenino,Casado,1,44773.7,Si,Fuga
+4981,35,Masculino,Casado,2,18345.3,Si,Fuga
+4985,84,Masculino,Casado,0,94243.8,No,No Fuga
+4987,38,Femenino,Casado,2,84653.1,Si,No Fuga
+4993,95,Femenino,Soltero,2,52997.5,Si,Fuga
+4996,70,Femenino,Casado,1,85192.9,Si,Fuga
+4998,37,Masculino,Casado,0,11693.3,No,No Fuga
+4999,41,Masculino,Casado,0,59898.4,No,No Fuga
