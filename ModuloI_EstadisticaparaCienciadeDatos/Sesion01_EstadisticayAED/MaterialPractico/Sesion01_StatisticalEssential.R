@@ -326,6 +326,7 @@ summary(censusn$hours.per.week)
 # De 40 a 45  Planilla estandar
 # De 45 a mas Planilla especial 
 
+#Creando nueva variable
 censusn$hpw_cat1 <- cut(censusn$hours.per.week, 
                        breaks = c(-Inf,40,45,Inf),
                        labels = c("Menos de 40", "De 40 a menos de 45",
