@@ -59,7 +59,7 @@ head(Europa, 10)
 
 Europa2=Europa[,2:8] # Hacemos un subset!
 head(Europa2, 3)
-cor(Europa2) # Vemos las correlaciones
+cor(Europa2, method = "spearma") # Vemos las correlaciones
 
 # Conclusion: Estas variables estan correlacionadas.
 
@@ -77,7 +77,7 @@ pca.Europa2 <- prcomp(Europa2,scale=TRUE,
 # Resumen
 summary(pca.Europa2)
 
-# Kaisser
+# Kaisser (Quedate con solo los CP que tienen valor o des. estandar > 1)
 # De acuerdo a este criterio me quedo con 3 CP.
 
 # Varianza Explicada

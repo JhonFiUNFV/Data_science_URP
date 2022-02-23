@@ -188,9 +188,19 @@ plot(TukeyHSD(anova1)) #Genera un plot para Tukey
 # H1: Existen difrencias en los niveles de glucosa en la sangre en las personas
 # que no tuvieron stroke respecto a los que si tuvieron
 kruskal.test(avg_glucose_level~stroke ,data = data.stroke.ci)
+kruskal.test(age~stroke ,data = data.stroke.ci)
 
+# Para variables cualitativas 
+# Variables cualitativas
+tabla <- table(data.stroke.ci$hypertension, data.stroke.ci$stroke)
+chisq.test(tabla)
+
+# Conclusión: p-value = 0.05591 < 0.05 --> 
 
 ### FIN ####
+
+
+
 
 
 
