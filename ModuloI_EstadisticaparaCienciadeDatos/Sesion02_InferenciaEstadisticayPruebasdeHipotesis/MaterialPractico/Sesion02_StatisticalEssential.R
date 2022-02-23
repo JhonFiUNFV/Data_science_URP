@@ -121,7 +121,12 @@ ggplot(data.stroke.ci,aes(stroke, avg_glucose_level, colour = stroke ))+geom_poi
 
 # ANOVA 
 # Procedimiento:
+# y ~ x
 
+# Prueba de hipótesis
+# H0: No exite diferencias en los niveles de glucosa 
+# H1: Existen difrencias en los niveles de glucosa en la sangre en las personas
+# que no tuvieron stroke respecto a los que si tuvieron
 anova1 <- aov(avg_glucose_level~stroke,data = data.stroke.ci) #Aplicamos el ANOVA PARAMETRICO
 summary(anova1) #Nos brinda un resumen del ANOVA
 
@@ -133,6 +138,14 @@ plot(anova1) #Contrasta los supuestos del ANOVA, de forma grafica
 ####################################
 # NORMALIDAD DE LOS RESIDUALES
 ####################################
+
+# Prueba de normalidad
+# H0: La distribucion de los datos es normal.
+# H1: La distribucion de los dato no es normal.
+library(moments) # Agostino
+agostino.test(data.stroke.ci$avg_glucose_level)
+
+# Conclusión: p-value == 2.2e - 16 < 0.05 --> <Se rechaza >la distribucion de los datos no es normal
 
 # H0: La distribucion de los datos es normal.
 # H1: La distribucion de los dato no es normal.
@@ -171,6 +184,9 @@ plot(TukeyHSD(anova1)) #Genera un plot para Tukey
 # Cuando no cumple con algun supuesto anterior. Aunque se recomienda utilizar la Prueba de Kruskall-Wallis.
 #cuando las varianzas son homogeneas.
 
+# H0: No exite diferencias en los niveles de glucosa 
+# H1: Existen difrencias en los niveles de glucosa en la sangre en las personas
+# que no tuvieron stroke respecto a los que si tuvieron
 kruskal.test(avg_glucose_level~stroke ,data = data.stroke.ci)
 
 
