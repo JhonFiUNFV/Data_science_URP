@@ -120,11 +120,14 @@ pca.Europa2$rotation # Cargas factoriales de cada componente.
 
 pca.Europa2$x # Puntuaciones factoriales
 
-Componentes<-pca.Europa2$x[,1:4]
+Componentes<-pca.Europa2$x[,1:3]
 Europa3<-cbind(Europa,Componentes)
-
+View(Europa3)
+Europa3<-cbind(Europa[,1],Componentes)
+View(Europa3)
 cor(Componentes)
 # Ejemplo II: PCA datos decathlon
+colnames(Europa3) = c("Pais", "Subdesarrollo_Economico", "Empleo_Pacifico", "Superficie")
 
 # En este ejemplo vamos a utilizar (solo a modo informativo) otras librerias que complementan el 
 # analisis PCA con los Biplots. El conjunto de datos hace referencia a los registros obtenidos 
